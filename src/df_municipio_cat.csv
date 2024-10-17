@@ -1,0 +1,970 @@
+,Nombre_Municipio,Latitud,Longitud,Categoria,Nombre_Lugar,Direccion,Distancia
+0,Ajalvir,40.5342302,-3.4807818,Park,Chiquitin,Ajalvir Madrid,333
+1,Ajalvir,40.5342302,-3.4807818,Park,Diverjungla,"Calle Segovia, 20",563
+2,Ajalvir,40.5342302,-3.4807818,Park,Parque Infantil,,1724
+3,Ajalvir,40.5342302,-3.4807818,Performing Arts Venue,Salón Municipal de Actos Socioculturales de la Villa de Ajalvir,"Calle Fuente, s/n",139
+4,El Álamo,40.2307296,-3.9905893,Park,Isla Perejil,28607 El Alamo Comunidad de Madrid,118
+5,El Álamo,40.2307296,-3.9905893,Park,Parque de Madera,,582
+6,Alcalá de Henares,40.481954,-3.363981,Park,Parque del Louisi,Alcalá de Henares Comunidad de Madrid,332
+7,Alcalá de Henares,40.481954,-3.363981,Park,Parque Infantil,28801 Alcalá de Henares Comunidad de Madrid,435
+8,Alcalá de Henares,40.481954,-3.363981,Park,Parque Salvador de Madariaga,Alcalá de Henares Comunidad de Madrid,470
+9,Alcalá de Henares,40.481954,-3.363981,Park,Parque de Sementales,"Ronda Fiscal, 28804 Alcalá de Henares Comunidad de Madrid",527
+10,Alcalá de Henares,40.481954,-3.363981,Park,Parque Isla del Colegio,Alcalá de Henares Comunidad de Madrid,585
+11,Alcalá de Henares,40.481954,-3.363981,Park,Parque O'Donnell,"Calle de Luis de Astrana Marín, 8",621
+12,Alcalá de Henares,40.481954,-3.363981,Park,Ermita de San Isidro (Alcalá de Henares),28805 Alcalá de Henares Comunidad de Madrid,686
+13,Alcalá de Henares,40.481954,-3.363981,Park,Parque San Isidro,28800 Alcalá de Henares Comunidad de Madrid,698
+14,Alcalá de Henares,40.481954,-3.363981,Park,Parque el Silo,,786
+15,Alcalá de Henares,40.481954,-3.363981,Park,Parque de Sementales,Madrid,806
+16,Alcalá de Henares,40.481954,-3.363981,Park,Parque de los Tubos,Alcalá de Henares Comunidad de Madrid,844
+17,Alcalá de Henares,40.481954,-3.363981,Park,Plaza de la Juventud,Alcalá de Henares Madrid,854
+18,Alcalá de Henares,40.481954,-3.363981,Park,Plaza de la Villa de Talence,"C/ Pablo De Olavide, 28804 Alcalá de Henares Comunidad de Madrid",954
+19,Alcalá de Henares,40.481954,-3.363981,Park,Parque del Medio,28803 Alcalá de Henares Comunidad de Madrid,972
+20,Alcalá de Henares,40.481954,-3.363981,Park,Parque de la Hera,,992
+21,Alcalá de Henares,40.481954,-3.363981,Park,Paseo de los Pinos,Alcalá de Henares Comunidad de Madrid,1035
+22,Alcalá de Henares,40.481954,-3.363981,Park,Parque Tierno Galvan,Alcalá de Henares Comunidad de Madrid,1077
+23,Alcalá de Henares,40.481954,-3.363981,Park,Parque junto a IES Antonio Machado,"C. Villalbilla, 28806 Alcalá de Henares Comunidad de Madrid",1167
+24,Alcalá de Henares,40.481954,-3.363981,Park,La Cruz,Valencia,1221
+25,Alcalá de Henares,40.481954,-3.363981,Park,Parque los Gatos,"C/ Alicante, 28804 Alcalá de Henares Comunidad de Madrid",1230
+26,Alcalá de Henares,40.481954,-3.363981,Park,Area de Juegos Complutum,Alcalá de Henares Comunidad de Madrid,1252
+27,Alcalá de Henares,40.481954,-3.363981,Park,Las Boyeras,Alcalá de Henares Comunidad de Madrid,1272
+28,Alcalá de Henares,40.481954,-3.363981,Park,Parque de los Nogales,Nogales Comunidad de Madrid,1289
+29,Alcalá de Henares,40.481954,-3.363981,Park,Plaza del Barro,Barro,1373
+30,Alcalá de Henares,40.481954,-3.363981,Park,Parque junto a CEIP Antonio de Nebrija,"C/ San Ignacio de Loyola, 28806 Alcalá de Henares Comunidad de Madrid",1404
+31,Alcalá de Henares,40.481954,-3.363981,Camera Store,Full Frame Photography,"Calle Teniente Ruiz, 29",491
+32,Alcalá de Henares,40.481954,-3.363981,Camera Store,Torresygarcia,"Goya, 5",643
+33,Alcalá de Henares,40.481954,-3.363981,Camera Store,Sergio Cueto {Life photographer,"Carabaña, 8",1043
+34,Alcalá de Henares,40.481954,-3.363981,Performing Arts Venue,Corral de Comedias,"Plaza de Cervantes, 15",65
+35,Alcalá de Henares,40.481954,-3.363981,Performing Arts Venue,El Teatro del Finikito,"Calle Santa Ursula, 7",169
+36,Alcalá de Henares,40.481954,-3.363981,Performing Arts Venue,Teatro Salón Cervantes,"Calle Cervantes, 7",243
+37,Alcalá de Henares,40.481954,-3.363981,Performing Arts Venue,Winchester Bar Rock,"calle Santa maria la rica, 6",384
+38,Alcalá de Henares,40.481954,-3.363981,Performing Arts Venue,Sala Margarita Xirgu,"Calle Vía Complutense, 19",417
+39,Alcalá de Henares,40.481954,-3.363981,Performing Arts Venue,elZulo Estudios,"Calle Entrepeñas, s/n",1362
+40,Alcalá de Henares,40.481954,-3.363981,Performing Arts Venue,Ágora Espacio Creativo,"Calle Amadeo Vives, 4",1623
+41,Alcalá de Henares,40.481954,-3.363981,Shopping Mall,C.C. la Dehesa,"Plaza de Zorita, s/n",312
+42,Alcalá de Henares,40.481954,-3.363981,Shopping Mall,Galería Santa Teresa,"Avenida de los Reyes Católicos, 38",1431
+43,Alcalá de Henares,40.481954,-3.363981,Shopping Mall,Centro Comercial el Val,"Calle Valladolid, 2",1445
+44,Alcalá de Henares,40.481954,-3.363981,Shopping Mall,C.C. Alcalá Magna,"Calle Cuesta de Teatinos, s/n",1472
+45,Alcalá de Henares,40.481954,-3.363981,Shopping Mall,Sephora Alcalá Magna,"Calle Valentín Juara Bellot, 4",1510
+46,Alcobendas,40.5400082,-3.6358494,Park,Parque de la Artesanía,"Calle de Ramón Fernández Guisasola, 22",112
+47,Alcobendas,40.5400082,-3.6358494,Park,Parque,"Calle de Ramón Esteban, 30",379
+48,Alcobendas,40.5400082,-3.6358494,Park,Parque Victimas del Terrorismo,Comunidad de Madrid,397
+49,Alcobendas,40.5400082,-3.6358494,Park,Parque de Murcia,Alcobendas Comunidad de Madrid,454
+50,Alcobendas,40.5400082,-3.6358494,Park,Área Canina Parque Arroyo de la Vega,"Av. de la Ermita, 28100 Alcobendas Comunidad de Madrid",497
+51,Alcobendas,40.5400082,-3.6358494,Park,Parque de Félix Rodríguez de la Fuente,Alcobendas Madrid,497
+52,Alcobendas,40.5400082,-3.6358494,Park,Área Canina Parque Víctimas del Terrorismo,"c/ Pintor Velázquez, 28100 Alcobendas Comunidad de Madrid",541
+53,Alcobendas,40.5400082,-3.6358494,Park,Jardín de la Vega,Avenida Olímpica Con Una Superficie de 180.000,555
+54,Alcobendas,40.5400082,-3.6358494,Park,Parque Comunidad de Madrid,Comunidad de Madrid,591
+55,Alcobendas,40.5400082,-3.6358494,Park,Área Canina Parque Comunidad de Madrid,"c/ Jarama, 28100 Alcobendas Comunidad de Madrid",610
+56,Alcobendas,40.5400082,-3.6358494,Park,Parque de Valencia,"Avenida de España, s/n",616
+57,Alcobendas,40.5400082,-3.6358494,Park,Parque Camilo Cienfuegos,"Jarama, Alcobendas Comunidad de Madrid",629
+58,Alcobendas,40.5400082,-3.6358494,Park,Área canina Parque Andalucía,"Pintor Murillo, 14",729
+59,Alcobendas,40.5400082,-3.6358494,Park,Parque Temático del Barco Pirata,Alcobendas Comunidad de Madrid,739
+60,Alcobendas,40.5400082,-3.6358494,Park,Parque de la universidad,28100 Alcobendas Comunidad de Madrid,766
+61,Alcobendas,40.5400082,-3.6358494,Park,Colorin,"Sacramento, 3",789
+62,Alcobendas,40.5400082,-3.6358494,Park,Parque de Andalucía,28100 Alcobendas Comunidad de Madrid,888
+63,Alcobendas,40.5400082,-3.6358494,Park,Área Canina Parque de Navarra,"Calle Marqués de la Valdavia, 90",965
+64,Alcobendas,40.5400082,-3.6358494,Park,Área Canina Parque Navarra,"Calle Marqués de la Valdavia, 90",969
+65,Alcobendas,40.5400082,-3.6358494,Park,Parque navarra,28100 Alcobendas Comunidad de Madrid,977
+66,Alcobendas,40.5400082,-3.6358494,Park,Recinto Ferial Alcobendas,"Huelva, s/n",997
+67,Alcobendas,40.5400082,-3.6358494,Park,Área Canina Parque Castilla la Mancha,"c/ Pintor Murillo, 28100 Alcobendas Comunidad de Madrid",1051
+68,Alcobendas,40.5400082,-3.6358494,Park,Parque de las Sombras,San Sebastián de los Reyes Comunidad de Madrid,1169
+69,Alcobendas,40.5400082,-3.6358494,Park,Parque de la Petunia,,1186
+70,Alcobendas,40.5400082,-3.6358494,Park,Área Canina Parque Temático Hormiguero,"Av. Valdelaparra, 28100 Alcobendas Comunidad de Madrid",1225
+71,Alcobendas,40.5400082,-3.6358494,Performing Arts Venue,CM la Esfera,"Avenida Olímpica, 14",465
+72,Alcobendas,40.5400082,-3.6358494,Performing Arts Venue,Teatro Auditorio Ciudad de Alcobendas,"Calle Blas de Otero, 4",1069
+73,Alcobendas,40.5400082,-3.6358494,Performing Arts Venue,Teatro Auditorio de Alcobendas,"Calle Ruperto Chapí, 22",1078
+74,Alcobendas,40.5400082,-3.6358494,Performing Arts Venue,La Nota Rock,"Calle Real, 71",1378
+75,Alcobendas,40.5400082,-3.6358494,Performing Arts Venue,Espazio 32,"Avenida de la Industria, 32",1450
+76,Alcobendas,40.5400082,-3.6358494,Performing Arts Venue,Teatro Auditorio Adolfo Marsillach,"Avenida Baunatal, 18",1606
+77,Alcobendas,40.5400082,-3.6358494,Performing Arts Venue,Hendrix,"Calle de la Granja, 60",1991
+78,Alcobendas,40.5400082,-3.6358494,Shopping Mall,Megamall,"Olimpica, 9",558
+79,Alcobendas,40.5400082,-3.6358494,Shopping Mall,Centro Comercial la Viña,San Sebastián de los Reyes Comunidad de Madrid,889
+80,Alcobendas,40.5400082,-3.6358494,Shopping Mall,Dolce Vita Shopping Gran Manzana,Avenida de España Nº 17,961
+81,Alcobendas,40.5400082,-3.6358494,Shopping Mall,Carrefouronline,"Carretera Autovía A-1, Km 14,5",992
+82,Alcobendas,40.5400082,-3.6358494,Shopping Mall,Heron Diversia,"Avenida de Bruselas, 21",1100
+83,Alcobendas,40.5400082,-3.6358494,Shopping Mall,Gorras Personalizadas Madrid,"Calle Isla de Alegranza, 4",1682
+84,Alcobendas,40.5400082,-3.6358494,Shopping Mall,Sudaderas Personalizadas,"Isla de Alegranza, 4",1760
+85,Alcobendas,40.5400082,-3.6358494,Shopping Mall,Carrefour San Sebastián de los Reyes,Carretera de Burgos N-1,1769
+86,Alcobendas,40.5400082,-3.6358494,Shopping Mall,Centro Comercial Carrefour San Sebastian de los Reyes,Carretera de Burgos N-1,1793
+87,Alcobendas,40.5400082,-3.6358494,Shopping Mall,Centro Comercial Carrefour Alcobendas,Carretera Burgos A1,1840
+88,Alcobendas,40.5400082,-3.6358494,Shopping Mall,C.C. el Bulevard,Madrid Comunidad de Madrid,1858
+89,Alcobendas,40.5400082,-3.6358494,Shopping Mall,Perfumerías Primor - C.C. Plaza Norte 2,"Plaza del Comercio, 11-12",1880
+90,Alcobendas,40.5400082,-3.6358494,Shopping Mall,El Bulevar,"Paseo de Alcobendas, 10",1880
+91,Alcobendas,40.5400082,-3.6358494,Shopping Mall,Centro Comercial Plaza Norte 2,Avenida del Juncal 15-17,1887
+92,Alcobendas,40.5400082,-3.6358494,Shopping Mall,Carrefour Alcobendas,Carretera Burgos A1,1983
+93,Alcorcón,40.3492998,-3.8284295,Park,Parque del Brasil,,480
+94,Alcorcón,40.3492998,-3.8284295,Park,Parque San Petas,"Calle Cisneros, 28922 Alcorcón Comunidad de Madrid",583
+95,Alcorcón,40.3492998,-3.8284295,Park,Parque las Comunidades,"CL Pablo Iglesias, 28922 Alcorcón Comunidad de Madrid",719
+96,Alcorcón,40.3492998,-3.8284295,Park,Parque Buero Vallejo,"Los Robles, 28922 Alcorcón Comunidad de Madrid",782
+97,Alcorcón,40.3492998,-3.8284295,Park,Piko Park,"Calle Valladolid, 13",848
+98,Alcorcón,40.3492998,-3.8284295,Park,Parque Infantil,"Calle Polvoranca, Alcorcón Comunidad de Madrid",852
+99,Alcorcón,40.3492998,-3.8284295,Park,Parque Ciudad de Mayarí,28922 Alcorcón Comunidad de Madrid,925
+100,Alcorcón,40.3492998,-3.8284295,Park,Zona de Ocio Infantil C. C Tres Aguas,"Avenida Américas, 7",981
+101,Alcorcón,40.3492998,-3.8284295,Park,Parque Infantil Recinto Ferial,,1047
+102,Alcorcón,40.3492998,-3.8284295,Park,La Ribota Park (Parque de La Ribota),Alcorcón Comunidad de Madrid,1100
+103,Alcorcón,40.3492998,-3.8284295,Park,Parque de la Escuela de Música,"Alcalde José Aranda, Alcorcón Comunidad de Madrid",1216
+104,Alcorcón,40.3492998,-3.8284295,Park,Parque de las Luces,,1319
+105,Alcorcón,40.3492998,-3.8284295,Park,Parque de gama,Comunidad de Madrid,1374
+106,Alcorcón,40.3492998,-3.8284295,Park,Plaza de la Constitucion,,1418
+107,Alcorcón,40.3492998,-3.8284295,Park,Parque de la República,Alcorcón Comunidad de Madrid,1460
+108,Alcorcón,40.3492998,-3.8284295,Park,Parque,Juan Ramón Jiménez,1499
+109,Alcorcón,40.3492998,-3.8284295,Park,Parque de Urtinsa,Alcorcón Madrid,1528
+110,Alcorcón,40.3492998,-3.8284295,Park,Parque de la República,Alcorcón Madrid,1536
+111,Alcorcón,40.3492998,-3.8284295,Park,Parque Alfredo Nobel,28922 Alcorcón Comunidad de Madrid,1712
+112,Alcorcón,40.3492998,-3.8284295,Park,Parque de los Castillos,"C/ de los Lirios, Alcorcón Comunidad de Madrid",1857
+113,Alcorcón,40.3492998,-3.8284295,Park,Parque Darwin,Alcorcón Comunidad de Madrid,1938
+114,Alcorcón,40.3492998,-3.8284295,Camera Store,Centro Digital Corona,"Calle Huerta, 1",440
+115,Alcorcón,40.3492998,-3.8284295,Camera Store,Acysa Media,"Calle Geológicas, 72",1976
+116,Alcorcón,40.3492998,-3.8284295,Performing Arts Venue,Local Rock Sur,"Calle Campo Santo, 16",565
+117,Alcorcón,40.3492998,-3.8284295,Performing Arts Venue,Teatro Buero Vallejo,"Avenida Pablo Iglesias, s/n",749
+118,Alcorcón,40.3492998,-3.8284295,Performing Arts Venue,Mariachis Perla,"Calle Cabo San Vicente, 12",1138
+119,Alcorcón,40.3492998,-3.8284295,Performing Arts Venue,Centro Cívico Margarita Burón,"Calle Copenhague, 57",1778
+120,Alcorcón,40.3492998,-3.8284295,Performing Arts Venue,Enclave Sur,"Calle las Fraguas, 16",1859
+121,Alcorcón,40.3492998,-3.8284295,Performing Arts Venue,Escuela de Percusión,"Navales, 47",1874
+122,Alcorcón,40.3492998,-3.8284295,Performing Arts Venue,Musiarte Producciones,"Avenida Viñagrande, 13",1909
+123,Alcorcón,40.3492998,-3.8284295,Performing Arts Venue,Centro Civico Cultural Viñagrande,"Calle Parque de Ordesa, 5",1973
+124,Alcorcón,40.3492998,-3.8284295,Shopping Mall,Madrid - Tres Aguas,"Avenida de América, 7",1049
+125,Alcorcón,40.3492998,-3.8284295,Shopping Mall,La Plataforma de la Construcción,"Avenida América, 32",1357
+126,Alcorcón,40.3492998,-3.8284295,Shopping Mall,La Tagliatella - Parque Oeste,"Avenida de Europa, 2",1522
+127,Alcorcón,40.3492998,-3.8284295,Shopping Mall,Madrid - X-Madrid,"Calle Copenhague, 53",1726
+128,Alcorcón,40.3492998,-3.8284295,Shopping Mall,X-Madrid,"Calle Oslo, 53",1796
+129,Algete,40.5961652,-3.4974246,Park,África Park,Algete Comunidad de Madrid,200
+130,Algete,40.5961652,-3.4974246,Park,Parque de el Cigarral,Algete Comunidad de Madrid,265
+131,Algete,40.5961652,-3.4974246,Park,Parque de los Olivos,28110 Algete Comunidad de Madrid,462
+132,Algete,40.5961652,-3.4974246,Park,Parque de las Fuentes,28110 Algete Comunidad de Madrid,505
+133,Algete,40.5961652,-3.4974246,Park,Estanque de Patos Cobeña,Cobeña,1744
+134,Algete,40.5961652,-3.4974246,Performing Arts Venue,Escuela Municipal de Música y Danza «Andrés Segovia»,"Calle Mayor, 6",78
+135,Algete,40.5961652,-3.4974246,Shopping Mall,Algete Centro Comercial,"Calle Magnolias, 1",321
+136,Alpedrete,40.6599005,-4.0251223,Park,Parque de las Columnas,Comunidad de Madrid,290
+137,Alpedrete,40.6599005,-4.0251223,Park,Parque de Juegos,Carretera M-619,622
+138,Alpedrete,40.6599005,-4.0251223,Park,Parque de Juegos,Carretera M619,629
+139,Alpedrete,40.6599005,-4.0251223,Performing Arts Venue,Asociacion Anade,"Bloq, 8",172
+140,Alpedrete,40.6599005,-4.0251223,Performing Arts Venue,Centro Cultural,"Plaza Francisco Rabal, 2",284
+141,Alpedrete,40.6599005,-4.0251223,Shopping Mall,Centro comercial los valles,"Carretera Navacerrada, s/n",411
+142,Aranjuez,40.03221,-3.6039604,Park,Parque Farnesio,Aranjuez Comunidad de Madrid,249
+143,Aranjuez,40.03221,-3.6039604,Park,Parque Infantil Isabel de Farnesio,,261
+144,Aranjuez,40.03221,-3.6039604,Park,Parque Pavia,"Antigua carretera andalucia, 28300 Aranjuez Comunidad de Madrid",393
+145,Aranjuez,40.03221,-3.6039604,Park,Fuente del Negro,Aranjuez Comunidad de Madrid,514
+146,Aranjuez,40.03221,-3.6039604,Park,Parque Infantil,28300 Aranjuez Comunidad de Madrid,701
+147,Aranjuez,40.03221,-3.6039604,Park,Pooh y Sus Amigos Aranjuez,"Calle San Fernando, 88",702
+148,Aranjuez,40.03221,-3.6039604,Park,Fuente del Reloj,Aranjuez Comunidad de Madrid,736
+149,Aranjuez,40.03221,-3.6039604,Park,Parque Pozo de las Nieves,,832
+150,Aranjuez,40.03221,-3.6039604,Park,Parque Glorieta Nuevo Aranjuez,Aranjuez,911
+151,Aranjuez,40.03221,-3.6039604,Park,Entre Duendes y Hadas,Calle Santa Inés Nº 13,1055
+152,Aranjuez,40.03221,-3.6039604,Park,Parque infantil,28300 Aranjuez Comunidad de Madrid,1216
+153,Aranjuez,40.03221,-3.6039604,Park,Estanque de los Chinescos,28300 Aranjuez Comunidad de Madrid,1248
+154,Aranjuez,40.03221,-3.6039604,Park,Urbanizacion los Jardines de Godoy,Aranjuez Comunidad de Madrid,1877
+155,Aranjuez,40.03221,-3.6039604,Performing Arts Venue,Gran Teatro de Aranjuez,"Postas, 5",122
+156,Aranjuez,40.03221,-3.6039604,Performing Arts Venue,Teatro Real Carlos III de Aranjuez,"Calle de San Antonio, 68",130
+157,Aranjuez,40.03221,-3.6039604,Performing Arts Venue,Centro Cultural Isabel de Farnesio,"Calle del Capitán Angosto Gómez Castrillón, 39",200
+158,Aranjuez,40.03221,-3.6039604,Performing Arts Venue,Obra Social Caja Madrid,"San Antonio, 49",224
+159,Aranjuez,40.03221,-3.6039604,Performing Arts Venue,La Nave de Cambaleo,"Avenida Loyola, 8",1054
+160,Aranjuez,40.03221,-3.6039604,Performing Arts Venue,Recinto Ferial Raso de la Estrella,"Calle Raso de la Estrella, 1",1492
+161,Aranjuez,40.03221,-3.6039604,Shopping Mall,Centro Comercial el Deleite,"Paseo del Deleite, s/n",1421
+162,Arganda del Rey,40.3007708,-3.4380688,Park,Parque Natural las Lagunas,"Carretera Chinchón M-313, Km 1,8",26
+163,Arganda del Rey,40.3007708,-3.4380688,Park,Parque Mirador,28500 Arganda del Rey Comunidad de Madrid,479
+164,Arganda del Rey,40.3007708,-3.4380688,Park,Recinto Ferial Arganda,Arganda del Rey Comunidad de Madrid,576
+165,Arganda del Rey,40.3007708,-3.4380688,Park,Parque de arganda,Comunidad de Madrid,627
+166,Arganda del Rey,40.3007708,-3.4380688,Park,Parque Goleta,,757
+167,Arganda del Rey,40.3007708,-3.4380688,Park,Parque Adolfo Suárez,28500 Arganda del Rey Comunidad de Madrid,832
+168,Arganda del Rey,40.3007708,-3.4380688,Park,Parque Infantil,,1245
+169,Arganda del Rey,40.3007708,-3.4380688,Park,Parque infantil,Arganda del Rey Comunidad de Madrid,1567
+170,Arganda del Rey,40.3007708,-3.4380688,Camera Store,David Mingo,"Calle Caminante, 19",70
+171,Arganda del Rey,40.3007708,-3.4380688,Performing Arts Venue,Casablanca Café Teatro,"Calle Santo Tomas, 5",185
+172,Arganda del Rey,40.3007708,-3.4380688,Performing Arts Venue,Auditorio Montserrat Caballé,"Calle del Mar de Alborán, 1",729
+173,Arganda del Rey,40.3007708,-3.4380688,Performing Arts Venue,Farsantes Teatro,"Rosa Luxemburgo, 4",739
+174,Batres,40.2091393,-3.9215947,Park,Plaza Arenal,Comunidad de Madrid,74
+175,Becerril de la Sierra,40.7163374,-3.9890681,Park,Parque,28490 Becerril de la Sierra Comunidad de Madrid,703
+176,Becerril de la Sierra,40.7163374,-3.9890681,Park,Parque de la Tejera,28490 Becerril de la Sierra Comunidad de Madrid,1950
+177,Becerril de la Sierra,40.7163374,-3.9890681,Performing Arts Venue,Centro Cultural de Becerril de la Sierra,"Calle Real, 4",119
+178,Becerril de la Sierra,40.7163374,-3.9890681,Performing Arts Venue,Teatro Sala Real,"Real, 4",119
+179,Boadilla del Monte,40.4053485,-3.8764663,Park,Diveruca,Avenida del Generalísimo Nº 25,98
+180,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque Juan Pablo II,Boadilla del Monte Comunidad de Madrid,304
+181,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque de el Nacedero,28660 Boadilla del Monte Comunidad de Madrid,352
+182,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque Boadilla Centro,,434
+183,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque Santillana del Mar,28660 Boadilla del Monte Comunidad de Madrid,524
+184,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque Palacio Boadilla,,529
+185,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque la Alberca,Alberca,621
+186,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque Victoria Rubio,Rubio,1360
+187,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque Gregorio Marañón,"Gregorio Marañon, Boadilla del Monte Comunidad de Madrid",1380
+188,Boadilla del Monte,40.4053485,-3.8764663,Park,Zona de Juegos Siglo XXI,,1478
+189,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque Villa de Pons,Madrid Comunidad de Madrid,1480
+190,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque Severo Ochoa,"Severo Ochoa, 1",1480
+191,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque Alejandro de la Sota,,1486
+192,Boadilla del Monte,40.4053485,-3.8764663,Park,recinto canino Boadilla,,1500
+193,Boadilla del Monte,40.4053485,-3.8764663,Park,Monte de Boadilla,28223 Boadilla del Monte Comunidad de Madrid,1548
+194,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque (de Colores) Victimas del Terrorismo,"Calle Juan de la Cierva, Boadilla del Monte Comunidad de Madrid",1554
+195,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque Hermanos Machado,Comunidad de Madrid,1775
+196,Boadilla del Monte,40.4053485,-3.8764663,Park,Pereda Gestion,"Avenida Cantabria Ciudad Grupo Santander, s/n",1800
+197,Boadilla del Monte,40.4053485,-3.8764663,Park,"Parque Jorge Manrique, Condesa de Chinchon","Jorge Manrique, Boadilla del Monte Comunidad de Madrid",1821
+198,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque Azorín,"Calle Jacinto Benavente, 28660 Boadilla del Monte Comunidad de Madrid",1849
+199,Boadilla del Monte,40.4053485,-3.8764663,Park,Parque Infantil Miguel Hernandez,,1939
+200,Boadilla del Monte,40.4053485,-3.8764663,Camera Store,Emilio Navas - Fine Art Photography,"Jacinto Benavente, 1",1936
+201,Boadilla del Monte,40.4053485,-3.8764663,Performing Arts Venue,Sala Rock & Play,"Calle Jose Antonio, 10",69
+202,Boadilla del Monte,40.4053485,-3.8764663,Performing Arts Venue,Music On School,"Avenida Infante Don Luis, 15",1719
+203,Boadilla del Monte,40.4053485,-3.8764663,Shopping Mall,Zoco Boadilla,Calle Santillana del Mar,288
+204,Boadilla del Monte,40.4053485,-3.8764663,Shopping Mall,El Palacio,"Carretera Boadilla-Majadahonda, 50",545
+205,El Boalo,40.7173359,-3.9202198,Park,Parque Municipal del Boalo,Boalo,1294
+206,El Boalo,40.7173359,-3.9202198,Park,Parque la Ponderosa de la Sierra,,1946
+207,Brunete,40.4050499,-3.9979912,Park,parque municipal de Brunete,,109
+208,Brunete,40.4050499,-3.9979912,Park,Castilandia,"Calle Tahona, 3",329
+209,Brunete,40.4050499,-3.9979912,Performing Arts Venue,Montenegro Producciones Escenograficas,"Calle Eras, s/n",281
+210,Buitrago del Lozoya,40.9953477,-3.6350501,Park,Parque de las Avenidas,09006 Burgos Burgos,1780
+211,Bustarviejo,40.8587766,-3.7097632,Park,Parque de arriba,"Calle De La Cerca, Bustarviejo",196
+212,Bustarviejo,40.8587766,-3.7097632,Performing Arts Venue,Teatro Percutor,"Calle Real, 67",182
+213,Bustarviejo,40.8587766,-3.7097632,Shopping Mall,El Paraiso,"Calvo Sotelo, 7",207
+214,Cabanillas de la Sierra,40.8216089,-3.6259742,Park,Paint Ball Cabanillas,Cabanillas,886
+215,Talofofo,13.3472446,144.7586507,Park,Valley Of The Latte,Santa Rita Santa Rita Municipality 96915,1360
+216,Camarma de Esteruelas,40.5490368,-3.3786211,Park,Parque Arroyo Fresno,"Arroyo Fresno, 13",400
+217,Camarma de Esteruelas,40.5490368,-3.3786211,Park,Alba - Asociación Para la Liberación y el Bienestar Animal,"Camino del Carral, 32",1864
+218,Cercedilla,40.7412931,-4.0558002,Park,La Titiriteka,"Calle de los Registros, 21",94
+219,Cercedilla,40.7412931,-4.0558002,Park,Parque PradoLuengo,PradoLuengo,649
+220,Cercedilla,40.7412931,-4.0558002,Performing Arts Venue,El Escape – Teatro Montalvo,"Calle Fragua, 9",119
+221,Chinchón,40.1408293,-3.4231474,Park,Parque Valquejigoso,Chinchón Comunidad de Madrid,707
+222,Chinchón,40.1408293,-3.4231474,Performing Arts Venue,Teatro Lope de Vega,"Plaza Palacio, s/n",61
+223,Ciempozuelos,40.1580087,-3.6205514,Park,Plaza Fuerzas Armadas,,441
+224,Ciempozuelos,40.1580087,-3.6205514,Park,Recinto de perros,,714
+225,Ciempozuelos,40.1580087,-3.6205514,Park,Parque Camino de Olimpia,"Camino de Olimpia, s/n",1095
+226,Ciempozuelos,40.1580087,-3.6205514,Performing Arts Venue,The Acoustic Ride - Música para bodas,"Plaza de la Virgen de la Antigua, 4",419
+227,Ciempozuelos,40.1580087,-3.6205514,Performing Arts Venue,Sala Multifuncional de Ciempozuelos,"Avenida Belén, s/n",741
+228,Ciempozuelos,40.1580087,-3.6205514,Shopping Mall,Comercial Detroit,"Calle Moreras Polígono Industrial Camporrosso, Parcela, 4",249
+229,Cobeña,40.5676083,-3.5048565,Park,Parque el Matadero,Cobeña Comunidad de Madrid,170
+230,Cobeña,40.5676083,-3.5048565,Park,Parque Pijos,28863 Cobeña Comunidad de Madrid,617
+231,Cobeña,40.5676083,-3.5048565,Park,Estanque de Patos Cobeña,Cobeña,1502
+232,Cobeña,40.5676083,-3.5048565,Performing Arts Venue,Casa de la Cultura de Cobeña,"Plaza de la Villa, 3",27
+233,Cobeña,40.5676083,-3.5048565,Shopping Mall,Herbolario Naturdietética,"Avenida Guadalajara, 20",202
+234,Collado Mediano,40.6943707,-4.0247212,Park,Parque de Collado Mediano,Comunidad de Madrid,548
+235,Collado Mediano,40.6943707,-4.0247212,Park,Parque de la Tejera,28490 Becerril de la Sierra Comunidad de Madrid,1924
+236,Collado Villalba,40.6431496,-3.9930128,Park,Parque Torre el Raso,28400 Collado Villalba Comunidad de Madrid,210
+237,Collado Villalba,40.6431496,-3.9930128,Park,Parque Peñalba,28400 Collado Villalba Comunidad de Madrid,357
+238,Collado Villalba,40.6431496,-3.9930128,Park,Parque Infantil la Dehesa I,28400 Collado Villalba Comunidad de Madrid,911
+239,Collado Villalba,40.6431496,-3.9930128,Park,Parque Infantil la Dehesa II,28400 Collado Villalba Comunidad de Madrid,1098
+240,Collado Villalba,40.6431496,-3.9930128,Park,Parque de las Heras,Madrid,1152
+241,Collado Villalba,40.6431496,-3.9930128,Park,El Parque de Lolo,,1189
+242,Collado Villalba,40.6431496,-3.9930128,Park,Parque Pinar de las Heras,,1212
+243,Collado Villalba,40.6431496,-3.9930128,Park,Parque de los Aromas,Collado Villalba Comunidad de Madrid,1635
+244,Collado Villalba,40.6431496,-3.9930128,Park,Parque Infantil los Belgas,28400 Collado Villalba Comunidad de Madrid,1828
+245,Collado Villalba,40.6431496,-3.9930128,Park,Parque de los peces,,1904
+246,Collado Villalba,40.6431496,-3.9930128,Park,Conservas Artesanas Rosara,"Calle Real, 32",1915
+247,Collado Villalba,40.6431496,-3.9930128,Park,Parque del Ambulatorio,Collado Villalba Comunidad de Madrid,1954
+248,Collado Villalba,40.6431496,-3.9930128,Park,Parque de las Bombas,Collado Villalba Comunidad de Madrid,1963
+249,Collado Villalba,40.6431496,-3.9930128,Performing Arts Venue,Casa de la Cultura de Collado Villalba,"Calle Real, 68",1416
+250,Collado Villalba,40.6431496,-3.9930128,Performing Arts Venue,80' Copas,"Calle los Molinos, 8",1717
+251,Collado Villalba,40.6431496,-3.9930128,Performing Arts Venue,Plaza de los Belgas,"Plaza de los Belgas, 15",1880
+252,Collado Villalba,40.6431496,-3.9930128,Shopping Mall,Zoco Villalba,"Avenida Juan Carlos I, 20",1435
+253,Collado Villalba,40.6431496,-3.9930128,Shopping Mall,Okaidi Cc los Valles,"Calle Rincón de las Eras, 1",1536
+254,Collado Villalba,40.6431496,-3.9930128,Shopping Mall,Los Valles,"Camelias, 14",1629
+255,Colmenar de Oreja,40.1074198,-3.3871634,Park,Fuente de los Huertos,Colmenar de Oreja Comunidad de Madrid,666
+256,Colmenar de Oreja,40.1074198,-3.3871634,Performing Arts Venue,Teatro Municipal Diéguez,"Calle del Convento, 5",295
+257,Colmenarejo,40.5607257,-4.0165248,Park,Parque Municipal las Quirogas,,263
+258,Colmenarejo,40.5607257,-4.0165248,Park,Parque del tiro,"Calle Cañada de las Merinas, s/n",286
+259,Colmenarejo,40.5607257,-4.0165248,Park,Parque del Huevo,"C/ Cañada de las Merinas, 28270 Colmenarejo Comunidad de Madrid",286
+260,Colmenarejo,40.5607257,-4.0165248,Park,Fuente de colorines,,1373
+261,Colmenarejo,40.5607257,-4.0165248,Performing Arts Venue,Teatro Municipal de Colmenarejo,"Calle de la Campana, 5",125
+262,Colmenar Viejo,40.6587726,-3.7659722,Park,Parque Infantil Maestro Almeida,28770 Colmenar Comunidad de Madrid,294
+263,Colmenar Viejo,40.6587726,-3.7659722,Park,Parque de la Estrella,28770 Colmenar Viejo Comunidad de Madrid,323
+264,Colmenar Viejo,40.6587726,-3.7659722,Park,Parque Sebastian Esteban Junquer,Colmenar Viejo Comunidad de Madrid,331
+265,Colmenar Viejo,40.6587726,-3.7659722,Park,Parque Alcalde Cosme Jerez,Calle del Tío Sandalio,446
+266,Colmenar Viejo,40.6587726,-3.7659722,Park,Parque Hierbabuena,28770 Colmenar Viejo Comunidad de Madrid,502
+267,Colmenar Viejo,40.6587726,-3.7659722,Park,Bosque de Almendros,28770 Colmenar Viejo Comunidad de Madrid,600
+268,Colmenar Viejo,40.6587726,-3.7659722,Park,Parque del Moncayo,28770 Colmenar Viejo Comunidad de Madrid,647
+269,Colmenar Viejo,40.6587726,-3.7659722,Park,Parque Agility,28770 Colmenar Viejo Comunidad de Madrid,701
+270,Colmenar Viejo,40.6587726,-3.7659722,Park,Parque Félix Rodríguez de la Fuente,,918
+271,Colmenar Viejo,40.6587726,-3.7659722,Park,La Alameda,Alameda,974
+272,Colmenar Viejo,40.6587726,-3.7659722,Park,Parque de San Andrés,28770  Comunidad de Madrid,1046
+273,Colmenar Viejo,40.6587726,-3.7659722,Park,Parque de el Mirador,28770 Colmenar Viejo Comunidad de Madrid,1070
+274,Colmenar Viejo,40.6587726,-3.7659722,Park,El Vivero,28770 Vivero Comunidad de Madrid,1505
+275,Colmenar Viejo,40.6587726,-3.7659722,Park,Longboard,,1516
+276,Colmenar Viejo,40.6587726,-3.7659722,Park,Angel Leon Park,28770 Colmenar Viejo Comunidad de Madrid,1645
+277,Colmenar Viejo,40.6587726,-3.7659722,Park,Parque Infantil,,1711
+278,Colmenar Viejo,40.6587726,-3.7659722,Park,Parque Museo Ciclópeo,Colmenar Viejo Comunidad de Madrid,1726
+279,Colmenar Viejo,40.6587726,-3.7659722,Park,Parque de la Fuente Santa,Almería Almería,1858
+280,Colmenar Viejo,40.6587726,-3.7659722,Performing Arts Venue,Auditorio Municipal Villa de Colmenar Viejo,"Calle Molino de Viento, s/n",943
+281,Colmenar Viejo,40.6587726,-3.7659722,Shopping Mall,La Feria,"Calle del Marqués de Santillana, 6",151
+282,Colmenar Viejo,40.6587726,-3.7659722,Shopping Mall,El Ventanal de la Sierra,"Avenida de la Libertad, 93",952
+283,Colmenar Viejo,40.6587726,-3.7659722,Shopping Mall,CC el Ventanal de la Sierra,"Rotonda de los Canteros, s/n",953
+284,Coslada,40.423802,-3.5552882,Park,Parque de Carlos Marx,"Calle de Miguel Hernández, 28822 Coslada Comunidad de Madrid",70
+285,Coslada,40.423802,-3.5552882,Park,Parque de las Casitas,28822 Coslada Comunidad de Madrid,323
+286,Coslada,40.423802,-3.5552882,Park,Saltilandia,"Avenida España, 23",613
+287,Coslada,40.423802,-3.5552882,Park,Parque de el Cerro,28822 Coslada Comunidad de Madrid,672
+288,Coslada,40.423802,-3.5552882,Park,Parque la Rambla,La Rambla,702
+289,Coslada,40.423802,-3.5552882,Park,El Parque,"Calle  de José Martí, 28822 Coslada Comunidad de Madrid",725
+290,Coslada,40.423802,-3.5552882,Park,Parque Infantil -Recinto Ferial,28821 Coslada Comunidad de Madrid,747
+291,Coslada,40.423802,-3.5552882,Park,Recinto Ferial,Coslada Madrid,750
+292,Coslada,40.423802,-3.5552882,Park,Parque Pellas,"Calle Bucarest, 28822 Coslada Comunidad de Madrid",956
+293,Coslada,40.423802,-3.5552882,Park,Parque Salvador Allende,"C/ Colombia, 28823 Coslada Comunidad de Madrid",970
+294,Coslada,40.423802,-3.5552882,Park,Parque Av. de España,Comunidad de Madrid,1041
+295,Coslada,40.423802,-3.5552882,Park,Parque Pablo Neruda,,1662
+296,Coslada,40.423802,-3.5552882,Park,Plaza de España,San Fernando de Henares Comunidad de Madrid,1802
+297,Coslada,40.423802,-3.5552882,Performing Arts Venue,Centro Cultural la Jaramilla,"Avenida de la Constitución, 47",821
+298,Coslada,40.423802,-3.5552882,Performing Arts Venue,Teatro la Jaramilla,"Avenida Constitución, 47",895
+299,Coslada,40.423802,-3.5552882,Shopping Mall,Zocoslada,"Avenida de España, 23",579
+300,Coslada,40.423802,-3.5552882,Shopping Mall,Centro Comercial la Rambla,Coslada Comunidad de Madrid,969
+301,Coslada,40.423802,-3.5552882,Shopping Mall,Los Valles,"Avenida Principes de España de l, 45",1039
+302,Coslada,40.423802,-3.5552882,Shopping Mall,La Rambla,"Calle Honduras, 25-27",1129
+303,Coslada,40.423802,-3.5552882,Shopping Mall,Comercial Valencia,"Calle Córdoba, s/n",1916
+304,Cubas de la Sagra,40.1908352,-3.8378366,Park,Parque de la Malata,28978 Cubas Comunidad de Madrid,547
+305,Cubas de la Sagra,40.1908352,-3.8378366,Park,Parque San Isidro,Cubas de la Sagra Comunidad de Madrid,813
+306,Cubas de la Sagra,40.1908352,-3.8378366,Park,Parque las Pérgolas,Cubas de la Sagra Comunidad de Madrid,1176
+307,Daganzo de Arriba,40.5451953,-3.45785,Park,Parque del Globo,"Calle Cuesta Lengua, 34",362
+308,Daganzo de Arriba,40.5451953,-3.45785,Park,Parque 11 de Marzo,28814 Daganzo de Arriba Comunidad de Madrid,370
+309,Daganzo de Arriba,40.5451953,-3.45785,Park,Parque Infantil,,602
+310,Daganzo de Arriba,40.5451953,-3.45785,Park,Parque forestal María Marzol,28814 Daganzo de Arriba Comunidad de Madrid,1908
+311,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Park,Arboleda Calzada Lonja Monasterio de el Escorial,28200 El Escorial Comunidad de Madrid,198
+312,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Park,Parque de Adolfo Suárez,"Paseo de los Alamillos, 28200 El Escorial Comunidad de Madrid",288
+313,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Park,Parque de Felipe II,"calle Infantes, 28200 El Escorial Comunidad de Madrid",360
+314,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Park,Plaza Juan de Herrera,28200 El Escorial Comunidad de Madrid,370
+315,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Park,Parque la Ladera,El Escorial Comunidad de Madrid,396
+316,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Park,Parque de los Romeros,28200 El Escorial Comunidad de Madrid,565
+317,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Park,Los Romeros,,575
+318,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Park,Parque de la Herreria,El Escorial Comunidad de Madrid,613
+319,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Park,Manguilla,,1426
+320,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Park,Parque de los Columpios,28280 El Escorial Comunidad de Madrid,1483
+321,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Park,Los Jardincillos,El Escorial Comunidad de Madrid,1599
+322,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Performing Arts Venue,Teatro Real Coliseo de Carlos III,"Calle Floridablanca, 20",203
+323,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Performing Arts Venue,Teatro Auditorio de San Lorenzo de el Escorial,"Parq. Felipe II, s/n",425
+324,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Performing Arts Venue,El Desván,"Avenida Felipe II, s/n",1676
+325,Real Monasterio de San Lorenzo de El Escorial,40.5890661,-4.1473949,Shopping Mall,Centro Comercial GIGANTE,"Polígono Industrial Matacuervos, 5",1987
+326,Fuenlabrada,40.282476,-3.7923422,Park,Parque Infantil,"Calle de Doctor Miguel Aguado, 28944 Fuenlabrada Comunidad de Madrid",259
+327,Fuenlabrada,40.282476,-3.7923422,Park,Moruzosland,,470
+328,Fuenlabrada,40.282476,-3.7923422,Park,Parque del Olivar,Olivar,482
+329,Fuenlabrada,40.282476,-3.7923422,Park,Parque de los Estados,"Avenida de los Estados, 12",548
+330,Fuenlabrada,40.282476,-3.7923422,Park,Parque de Perros,28945 Fuenlabrada Comunidad de Madrid,552
+331,Fuenlabrada,40.282476,-3.7923422,Park,Parque Infantil,28944 Fuenlabrada Comunidad de Madrid,605
+332,Fuenlabrada,40.282476,-3.7923422,Park,Parque de Leganés,"Calle de Leganés, 31",630
+333,Fuenlabrada,40.282476,-3.7923422,Park,Parque de la urbanización,"Calle Noria, 28944 Fuenlabrada Comunidad de Madrid",645
+334,Fuenlabrada,40.282476,-3.7923422,Park,Bulevar Primero de Mayo,,654
+335,Fuenlabrada,40.282476,-3.7923422,Park,ParQue de las R£g!OneS,28941 Fuenlabrada Comunidad de Madrid,674
+336,Fuenlabrada,40.282476,-3.7923422,Park,Campos Municipales de Petanca,Fuenlabrada Madrid,850
+337,Fuenlabrada,40.282476,-3.7923422,Park,Plaza de el Molino,"Calle de Italia, 15-17",947
+338,Fuenlabrada,40.282476,-3.7923422,Park,Parque Europa,Avenida de las Naciones,1053
+339,Fuenlabrada,40.282476,-3.7923422,Park,Parque de Valdeserrano,,1337
+340,Fuenlabrada,40.282476,-3.7923422,Park,Parque lineal la Serna,Fuenlabrada Comunidad de Madrid,1356
+341,Fuenlabrada,40.282476,-3.7923422,Park,Parque de la Olla,Fuenlabrada Comunidad de Madrid,1387
+342,Fuenlabrada,40.282476,-3.7923422,Park,Parque de la Solidaridad,28942 Fuenlabrada Comunidad de Madrid,1594
+343,Fuenlabrada,40.282476,-3.7923422,Park,Parque de Tebas,Humanes de Madrid Comunidad de Madrid,1658
+344,Fuenlabrada,40.282476,-3.7923422,Park,El arenero,,1692
+345,Fuenlabrada,40.282476,-3.7923422,Park,Parque de la Paz,Calle Gijón 2-8,1955
+346,Fuenlabrada,40.282476,-3.7923422,Performing Arts Venue,Sound Kiss,"Calle Castillejos, 28",205
+347,Fuenlabrada,40.282476,-3.7923422,Performing Arts Venue,Maria Teresa Moreno Corcoles,"Humanes, 21",270
+348,Fuenlabrada,40.282476,-3.7923422,Performing Arts Venue,Maria Teresa Moreno Corcoles,"Humanes, 21",319
+349,Fuenlabrada,40.282476,-3.7923422,Performing Arts Venue,Sala el Grito,"Plaza del Huerto del Cura, s/n",344
+350,Fuenlabrada,40.282476,-3.7923422,Performing Arts Venue,Casa de la Musica,"Plaza Huerto del Cura, s/n",576
+351,Fuenlabrada,40.282476,-3.7923422,Performing Arts Venue,Centro de Arte Tomás y Valiente,"Calle de Leganés, 51",1149
+352,Fuenlabrada,40.282476,-3.7923422,Performing Arts Venue,Teatro Tomás y Valiente,"Calle de Leganés, 51",1186
+353,Fuenlabrada,40.282476,-3.7923422,Performing Arts Venue,The Rockers,"Calle Islas Británicas, 2A",1586
+354,Fuenlabrada,40.282476,-3.7923422,Shopping Mall,Condis,"Móstoles, s/n",1334
+355,Fuenlabrada,40.282476,-3.7923422,Shopping Mall,Asesoría Fuenlabrada 2,"Calle Portugal, 33",1446
+356,Fuenlabrada,40.282476,-3.7923422,Shopping Mall,Plaza de las Provincias,"Avenida Provincias, 18",1740
+357,Fuenlabrada,40.282476,-3.7923422,Shopping Mall,C.C. las Provincias,"Avenida de las Provincias, 18-22",1753
+358,Fuente el Saz de Jarama,40.6312151,-3.5125918,Park,Parque de la Igualdad,Avenida Julián Sanchez,169
+359,Fuente el Saz de Jarama,40.6312151,-3.5125918,Park,Pececitos al Agua,28140 Fuente El Saz de Jarama Comunidad de Madrid,238
+360,Fuente el Saz de Jarama,40.6312151,-3.5125918,Park,Parque Madroños 3,28140 Fuente El Saz de Jarama Comunidad de Madrid,450
+361,Fuente el Saz de Jarama,40.6312151,-3.5125918,Park,Tu Castillo,"Calle Almendralejos, 53 Bajo",651
+362,Galapagar,40.5774992,-4.0037748,Park,Parque Infantil,28260 Galapagar Comunidad de Madrid,104
+363,Galapagar,40.5774992,-4.0037748,Performing Arts Venue,Centro Cultural la Pocilla,"Calle Guadarrama, 0",306
+364,Galapagar,40.5774992,-4.0037748,Performing Arts Venue,Teatro Jacinto Benavente,"Calle Guadarrama, 66",700
+365,Galapagar,40.5774992,-4.0037748,Performing Arts Venue,Centro Cultural la Pocilla,"Guadarrama, 66",708
+366,Gascones,41.0185654,-3.641499,Park,Parque de las Avenidas,09006 Burgos Burgos,1089
+367,Getafe,40.3070639,-3.7331808,Park,Parque los Escolapios,Comunidad de Madrid,184
+368,Getafe,40.3070639,-3.7331808,Park,Parque infantil Pocoyo,Getafe Comunidad de Madrid,245
+369,Getafe,40.3070639,-3.7331808,Park,Plaza del Matadero,Getafe Comunidad de Madrid,545
+370,Getafe,40.3070639,-3.7331808,Park,Plaza Heredia,Comunidad de Madrid,713
+371,Getafe,40.3070639,-3.7331808,Park,Parque el Greco,"Calle de el Greco, 6",727
+372,Getafe,40.3070639,-3.7331808,Park,Parque Infantil Paseo de la Estación,Getafe Comunidad de Madrid,892
+373,Getafe,40.3070639,-3.7331808,Park,Parque de la Alhóndiga,28905 Getafe Comunidad de Madrid,913
+374,Getafe,40.3070639,-3.7331808,Park,Parque Lineal Universidad Carlos III,,1359
+375,Getafe,40.3070639,-3.7331808,Park,Parque Infantíl Aviocar,,1569
+376,Getafe,40.3070639,-3.7331808,Park,Columpios el Bercial,28907 Getafe Comunidad de Madrid,1638
+377,Getafe,40.3070639,-3.7331808,Park,Paseo brabusete,,1713
+378,Getafe,40.3070639,-3.7331808,Park,Parque de Castilla-La Mancha,"Av. Don Juan de Borbón, 28903 Getafe Comunidad de Madrid",1809
+379,Getafe,40.3070639,-3.7331808,Park,Parque Mafalda,28905 Getafe Comunidad de Madrid,1857
+380,Getafe,40.3070639,-3.7331808,Performing Arts Venue,Teatro Auditorio Federico Garcia Lorca,"Calle Ramón y Cajal, 22",355
+381,Getafe,40.3070639,-3.7331808,Performing Arts Venue,Atico Teatro,"Calle Ciempozuelos, 23",499
+382,Getafe,40.3070639,-3.7331808,Performing Arts Venue,Old School Getafe,"Plaza Juan Carlos I, s/n",1617
+383,Getafe,40.3070639,-3.7331808,Shopping Mall,Puma Sports Spain,"Avenida Río Guadalquivir Área Emp. Andalucía, 15",1400
+384,Getafe,40.3070639,-3.7331808,Shopping Mall,C.C. Getafe 3,"Centro Comercial Getafe, 3",1605
+385,Getafe,40.3070639,-3.7331808,Shopping Mall,Centro Comercial Getafe III,"Plaza Juan Carlos I, 1 Bajo",1664
+386,Griñón,40.2136607,-3.8581479,Park,Club Agility ESLON,Serranillos del Valle Comunidad de Madrid,1442
+387,Griñón,40.2136607,-3.8581479,Park,Parque las Pérgolas,Cubas de la Sagra Comunidad de Madrid,1949
+388,Griñón,40.2136607,-3.8581479,Performing Arts Venue,Teatro Municipal de Griñón,"Calle Fuente de la Salud, 31",448
+389,Griñón,40.2136607,-3.8581479,Shopping Mall,Rastro Máquinas,"Calle Italia, 4",829
+390,Guadalix de la Sierra,40.7822384,-3.7007794,Park,El Encinar,"Calle Ildefonso, 20",531
+391,Guadalix de la Sierra,40.7822384,-3.7007794,Performing Arts Venue,CEAMD Maestro José Guillén,"Avenida Alejandro Rubio, 73",431
+392,Guadarrama,40.6734454,-4.0893911,Park,El Parque,Comunidad de Madrid,13
+393,Guadarrama,40.6734454,-4.0893911,Park,Parque del Ayuntamiento Guadarrama,28440 Guadarrama Comunidad de Madrid,25
+394,Guadarrama,40.6734454,-4.0893911,Park,Galpark Iberica,"Polígono Industrial la Mata, 48",169
+395,Guadarrama,40.6734454,-4.0893911,Park,Ludobichos,"Reyes Católicos, 3",188
+396,Guadarrama,40.6734454,-4.0893911,Park,Ludo Bichos,"Calle Reyes Católicos, 3",188
+397,Guadarrama,40.6734454,-4.0893911,Park,Parque la Dehesa,28440 Guadarrama Comunidad de Madrid,659
+398,Guadarrama,40.6734454,-4.0893911,Park,Parque del dragón,Guadarrama Comunidad de Madrid,711
+399,Guadarrama,40.6734454,-4.0893911,Performing Arts Venue,Teatro la Tartana,"Camino de las Labores, 0",1093
+400,Hoyo de Manzanares,40.6227334,-3.9072054,Park,Parque Alcantara,Hoyo de Manzanares Comunidad de Madrid,67
+401,Hoyo de Manzanares,40.6227334,-3.9072054,Park,La cabilda,,1069
+402,Hoyo de Manzanares,40.6227334,-3.9072054,Performing Arts Venue,Teatro Municipal las Cigüeñas,"Plaza de la Iglesia, s/n",62
+403,Humanes de Madrid,40.2508847,-3.8270997,Park,Parque de la Rana,,110
+404,Humanes de Madrid,40.2508847,-3.8270997,Park,Parque Hnos,28970 Humanes de Madrid Comunidad de Madrid,738
+405,Humanes de Madrid,40.2508847,-3.8270997,Park,Parque Tebas,,965
+406,Humanes de Madrid,40.2508847,-3.8270997,Park,Prado de la Casa,Humanes de Madrid Comunidad de Madrid,1629
+407,Loeches,40.3837901,-3.4092281,Park,Parque 2 de mayo,,578
+408,Madrid,40.4167047,-3.7035825,Park,Hotel indignado,,155
+409,Madrid,40.4167047,-3.7035825,Park,Parque infantil Plaza Santa Ana,Madrid Comunidad de Madrid,309
+410,Madrid,40.4167047,-3.7035825,Park,Parque Madrid Río,28011 Madrid Comunidad de Madrid,428
+411,Madrid,40.4167047,-3.7035825,Park,"Valverde, 2",Valverde,431
+412,Madrid,40.4167047,-3.7035825,Park,Parque Atocha,Madrid Comunidad de Madrid,618
+413,Madrid,40.4167047,-3.7035825,Park,Almendro3,28005 Madrid Comunidad de Madrid,641
+414,Madrid,40.4167047,-3.7035825,Park,Parque Infantil Vazquez de Mella,Madrid Comunidad de Madrid,650
+415,Madrid,40.4167047,-3.7035825,Park,Parque Infantil Plaza de Oriente,,720
+416,Madrid,40.4167047,-3.7035825,Park,Parque infantil,Madrid Comunidad de Madrid,727
+417,Madrid,40.4167047,-3.7035825,Park,Parque infantil Paseo del Prado,"Pase del Prado, 8",810
+418,Madrid,40.4167047,-3.7035825,Park,Parque del Emir Mohamed I,"& Calle de Segovia, 28005 Madrid Comunidad de Madrid",973
+419,Madrid,40.4167047,-3.7035825,Park,Parl,Madrid Comunidad de Madrid,1002
+420,Madrid,40.4167047,-3.7035825,Park,Parque Cuesta de la Vega,Madrid Comunidad de Madrid,1032
+421,Madrid,40.4167047,-3.7035825,Park,Jardines de las Vistillas,Plaza de Gabriel Miró s/n,1039
+422,Madrid,40.4167047,-3.7035825,Park,Parque de Madrid,28008 Madrid Comunidad de Madrid,1084
+423,Madrid,40.4167047,-3.7035825,Park,"Rio Manzanares, Principe pio, madrid",Madrid Comunidad de Madrid,1085
+424,Madrid,40.4167047,-3.7035825,Park,Parque Casino de la Reina,"Calle Embajadores, 68",1197
+425,Madrid,40.4167047,-3.7035825,Park,Parque Calistenia,28005 Madrid Comunidad de Madrid,1209
+426,Madrid,40.4167047,-3.7035825,Park,Parque de la Cornisa,28005 Madrid Comunidad de Madrid,1250
+427,Madrid,40.4167047,-3.7035825,Park,Parque de Madrid,Madrid Comunidad de Madrid,1261
+428,Madrid,40.4167047,-3.7035825,Park,Área de Juegos Infantiles,,1283
+429,Madrid,40.4167047,-3.7035825,Park,Plaza de la Independencia (Madrid),"Plaza de la Independencia, s/n",1306
+430,Madrid,40.4167047,-3.7035825,Park,Parque de Atenas,28005 Madrid Comunidad de Madrid,1310
+431,Madrid,40.4167047,-3.7035825,Park,Parque de la Ventosa,"Calle de la descarga, 28005 Madrid Comunidad de Madrid",1314
+432,Madrid,40.4167047,-3.7035825,Park,Parque Infantil el Fuerte de Madera,Madrid Comunidad de Madrid,1322
+433,Madrid,40.4167047,-3.7035825,Camera Store,Ulltravioleta escuela de fotografía,"Perseo, 6",527
+434,Madrid,40.4167047,-3.7035825,Camera Store,Fotógrafo bebes Madrid,"Calle Cardenal Cisneros, 66",605
+435,Madrid,40.4167047,-3.7035825,Camera Store,Zoom Edition,"Calle Pez, 1",654
+436,Madrid,40.4167047,-3.7035825,Camera Store,Walden Photography Store & Visual Supplies Co,"Calle del Barco, 40",760
+437,Madrid,40.4167047,-3.7035825,Camera Store,Argos Estudio Fotográfico,"Calle Peñuelas, 14",1502
+438,Madrid,40.4167047,-3.7035825,Camera Store,Alfonso Torras Hernandez,"Calle Vallehermoso, 15",1617
+439,Madrid,40.4167047,-3.7035825,Costume Store,Vestuario Paris,"Calle del Amor de Dios, 14",626
+440,Madrid,40.4167047,-3.7035825,Costume Store,Fiestas Paco,"Toledo, 52",681
+441,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Umusic Hotel Teatro Albeniz,"Calle de la Paz, 11",148
+442,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Tanchal 98,"Mayor, 6",158
+443,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Tablao Flemenco 1911,"Calle del Príncipe, 15",253
+444,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Teatro Calderón (Madrid),"Calle Atocha, 18",299
+445,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Sala el Sol,"Jardines, 3",302
+446,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Café Central,"Plaza del Ángel, 10",324
+447,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Teatro Reina Victoria,"Carrera de San Jerónimo, 24",324
+448,Madrid,40.4167047,-3.7035825,Performing Arts Venue,CSB la escuela de español,"Calle de Raimundo Lulio, 3",342
+449,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Wurlitzer Ballroom,"Calle Tres Cruces, 12",350
+450,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Ballet Flamenco de Madrid,"Teatro Fígaro. Calle Doctor Cortezo, 5",360
+451,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Cardamomo,"Echegaray, 15",371
+452,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Teatro Cofidis,Calle de Alcalá 20,399
+453,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Sony/Atv,"Gran Vía, 39",402
+454,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Iter Comitatus,"Calle Arlaban, 7",407
+455,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Presentación #Muwom,"Calle Fuencarral, 3",433
+456,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Centro Ruso de Ciencia y Cultura,"Calle de Atocha, 34",452
+457,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Bogart Club,"Calle de Cedaceros, 7",468
+458,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Teatro Nuevo Apolo,"Plaza Tirso de Molina, 1",488
+459,Madrid,40.4167047,-3.7035825,Performing Arts Venue,The Secret Garden,"Plaza de San Miguel, 8",517
+460,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Las Carboneras,"Plaza del Conde de Miranda, 1",530
+461,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Microteatro Por Dinero,"Calle Loreto y Chicote, 9",540
+462,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Ipopyou,"Victor Hugo, 1",549
+463,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Teatro de la Zarzuela,"Calle de Jovellanos, 4",554
+464,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Teatro Rialto,"Calle Gran Vía, 54",608
+465,Madrid,40.4167047,-3.7035825,Performing Arts Venue,Teatro Arlequín Gran Vía,"San Bernardo, 5",624
+466,Madrid,40.4167047,-3.7035825,Shopping Mall,Global Sources,"Calle de Nicolás Usera, 58",436
+467,Madrid,40.4167047,-3.7035825,Shopping Mall,Mercado de las Ranas,"Calle Santa María, 20",771
+468,Madrid,40.4167047,-3.7035825,Shopping Mall,Príncipe Pío Shopping Center (C.C. Príncipe Pío),"Centro Comercial Principe Pio - Paseo de la Florida, 2",1407
+469,Madrid,40.4167047,-3.7035825,Shopping Mall,Experto en Duchas,"Calle de Ercilla, 20",1559
+470,Madrid,40.4167047,-3.7035825,Shopping Mall,Goya con Serrano,"Goya, 15",1645
+471,Madrid,40.4167047,-3.7035825,Shopping Mall,Hermanos Revilla,"Calle Goya, 8",1695
+472,Madrid,40.4167047,-3.7035825,Shopping Mall,Quiosco Principe Pio,"Pº de la Florida, s/n",1776
+473,Majadahonda,40.473055,-3.8724138,Park,Plaza de la Constitución,Majadahonda Comunidad de Madrid,204
+474,Majadahonda,40.473055,-3.8724138,Park,Parque de la Constitución,,370
+475,Majadahonda,40.473055,-3.8724138,Park,Estrella de la muerte,Estrella,414
+476,Majadahonda,40.473055,-3.8724138,Park,Parque de la rueda,Majadahonda Comunidad de Madrid,541
+477,Majadahonda,40.473055,-3.8724138,Park,Parque Colón,"Plaza Colón, s/n",568
+478,Majadahonda,40.473055,-3.8724138,Park,Parque de la Laguna,28220 Majadahonda Comunidad de Madrid,578
+479,Majadahonda,40.473055,-3.8724138,Park,Parque del Cerro del Aire,"Avda. de España, 28220 Majadahonda Comunidad de Madrid",769
+480,Majadahonda,40.473055,-3.8724138,Park,Parque,Majadahonda Comunidad de Madrid,776
+481,Majadahonda,40.473055,-3.8724138,Park,Parque del Arcipreste,28220 Majadahonda Comunidad de Madrid,886
+482,Majadahonda,40.473055,-3.8724138,Park,Parque de Peco,"av. paralela, Madrid Comunidad de Madrid",1017
+483,Majadahonda,40.473055,-3.8724138,Park,Parque del boniato,,1025
+484,Majadahonda,40.473055,-3.8724138,Park,Parque Granja del Conde,Majadahonda Comunidad de Madrid,1085
+485,Majadahonda,40.473055,-3.8724138,Park,Descampado Perros,,1125
+486,Majadahonda,40.473055,-3.8724138,Park,Area Infantil,Las Rozas Comunidad de Madrid,1162
+487,Majadahonda,40.473055,-3.8724138,Park,Parque de Bruselas,28200 Majadahonda Comunidad de Madrid,1296
+488,Majadahonda,40.473055,-3.8724138,Park,Parque de Lisboa,"Calle Comunidad de Baleares, 1-7",1585
+489,Majadahonda,40.473055,-3.8724138,Park,Parque Piscis,28231 Las Rozas Comunidad de Madrid,1616
+490,Majadahonda,40.473055,-3.8724138,Park,Parque Navaluenga,"Rodas, 28220 Majadahonda Comunidad de Madrid",1673
+491,Majadahonda,40.473055,-3.8724138,Park,Parque Nuevo,,1710
+492,Majadahonda,40.473055,-3.8724138,Park,Jugalia,Majadahonda Comunidad de Madrid,1731
+493,Majadahonda,40.473055,-3.8724138,Park,Descampado,Calle Sonora,1761
+494,Majadahonda,40.473055,-3.8724138,Park,Parque infantil P.Paris,,1925
+495,Majadahonda,40.473055,-3.8724138,Park,Parque de Dublín,28231 Las Rozas Comunidad de Madrid,1954
+496,Majadahonda,40.473055,-3.8724138,Performing Arts Venue,Auditorio Municipal Alfredo Kraus,"Calle de las Norias, 29",454
+497,Majadahonda,40.473055,-3.8724138,Performing Arts Venue,Rey Louie Bar Concierto,"Avenida de España, 51",862
+498,Majadahonda,40.473055,-3.8724138,Performing Arts Venue,Sala Lennon,"Avenida Comunidad de Madrid, 35 Bis",1811
+499,Majadahonda,40.473055,-3.8724138,Performing Arts Venue,Teatro Federico García Lorca,"Calle Principado de Asturias, 28",1865
+500,Majadahonda,40.473055,-3.8724138,Shopping Mall,La Nueva Pipa,"Calle Mieses, 19",131
+501,Majadahonda,40.473055,-3.8724138,Shopping Mall,Zoco de Majadahonda,"Avenida de España, 51",880
+502,Majadahonda,40.473055,-3.8724138,Shopping Mall,CC el Zoco de Majadahonda,"Avenida de España, 51",882
+503,Majadahonda,40.473055,-3.8724138,Shopping Mall,Monte del Pilar,"Avenida del Príncipe de Asturias, s/n",1648
+504,Majadahonda,40.473055,-3.8724138,Shopping Mall,BurgoCentro,Calle Comunidad de Madrid 37-41,1850
+505,Majadahonda,40.473055,-3.8724138,Shopping Mall,Centro Comercial Burgo de las Rozas,Calle de la Comunidad de Madrid Nº 37,1946
+506,Majadahonda,40.473055,-3.8724138,Shopping Mall,C.C. Cerro del Espino,"Calle de las Moreras, 42",1947
+507,Majadahonda,40.473055,-3.8724138,Shopping Mall,Equinoccio Park,"Calle Fresa, 2",2045
+508,Manzanares el Real,40.7267632,-3.864981,Park,Parque Infantil del Castillo de Manzanares,"Calle del Cura, s/n",102
+509,Manzanares el Real,40.7267632,-3.864981,Shopping Mall,Viveros Manzanares,"Avenida de la Paz, s/n",619
+510,Meco,40.553746,-3.3281561,Park,Parque del Lago,,925
+511,Meco,40.553746,-3.3281561,Performing Arts Venue,Centro Cultural Antonio Llorente,"Plaza España, 4",217
+512,Mejorada del Campo,40.3971785,-3.4896068,Park,Parque Norte,Mesas,419
+513,Mejorada del Campo,40.3971785,-3.4896068,Performing Arts Venue,Sala Metro Sin,"Calle Doctor Gonzalo Sierra, 2",9
+514,Mejorada del Campo,40.3971785,-3.4896068,Performing Arts Venue,Ave Producciones,"Calle Federico Garcia Lorca, 18",294
+515,Mejorada del Campo,40.3971785,-3.4896068,Performing Arts Venue,Casa de la Cultura,"Plaza Ilustración, 9",566
+516,Mejorada del Campo,40.3971785,-3.4896068,Performing Arts Venue,Luces y Sombras S.C.M,"Calle Aragon, 40",1268
+517,Mejorada del Campo,40.3971785,-3.4896068,Shopping Mall,C. C. Juan Gris,"Avenida de Juan Gris, 1",961
+518,Mejorada del Campo,40.3971785,-3.4896068,Shopping Mall,Samper Sampedro,"Miguel Ángel Blanco, 4",1147
+519,El Molar,40.7347865,-3.584376,Shopping Mall,Centro Comercial el Casito,"Paseo de la Ermita, 51",1424
+520,Moralzarzal,40.6791436,-3.9720985,Park,La carreterita,"Bellas Vistas, 28411 Moralzarzal Comunidad de Madrid",104
+521,Moralzarzal,40.6791436,-3.9720985,Park,Parque de la Tejera,28411 Moralzarzal Comunidad de Madrid,465
+522,Moralzarzal,40.6791436,-3.9720985,Camera Store,Foto Estudio Moralzarzal,"Avenida Salud, 1",104
+523,Moralzarzal,40.6791436,-3.9720985,Performing Arts Venue,S.O.R.C.A.S,"Calle la Iglesia, 14",115
+524,Moralzarzal,40.6791436,-3.9720985,Performing Arts Venue,Carpa de Fiestas de Moralzarzal,Avenida Salvador Sánchez Frascuelo,383
+525,Moralzarzal,40.6791436,-3.9720985,Performing Arts Venue,Teatro Municipal de Moralzarzal,"Avenida de Salvador Sánchez Frascuelo, 26",491
+526,Moralzarzal,40.6791436,-3.9720985,Shopping Mall,Ayuntamiento de Moralzarzal,"Calle Raso, 11",441
+527,Morata de Tajuña,40.2294297,-3.4366925,Performing Arts Venue,Casa de la Cultura Francisco Gonzalez,"Calle Tarayuela, 1 Bajo",420
+528,Morata de Tajuña,40.2294297,-3.4366925,Performing Arts Venue,Centro Cultural Francisco González,"Calle Tarayuela, s/n",475
+529,Móstoles,40.3238525,-3.8649214,Park,Parque Zarauz,28931 Móstoles Comunidad de Madrid,217
+530,Móstoles,40.3238525,-3.8649214,Park,El Hoyo,"Calle Badajoz, 2",362
+531,Móstoles,40.3238525,-3.8649214,Park,Fernandez Pascual Eduardo,"Avenida de la Constitucion, 50",382
+532,Móstoles,40.3238525,-3.8649214,Park,Parque Cataluña,"valladolid, 28938 Móstoles Comunidad de Madrid",603
+533,Móstoles,40.3238525,-3.8649214,Park,Parque Plaza Valencia,Comunidad de Madrid,633
+534,Móstoles,40.3238525,-3.8649214,Park,Pipican Parque San Luis,,679
+535,Móstoles,40.3238525,-3.8649214,Park,La Pista Roja,,720
+536,Móstoles,40.3238525,-3.8649214,Park,Parque de Galicia,"Calle Hermanos Pinzón, 2",787
+537,Móstoles,40.3238525,-3.8649214,Park,Parque de las aventuras,,828
+538,Móstoles,40.3238525,-3.8649214,Park,Parque la Paz,28938 Móstoles Comunidad de Madrid,852
+539,Móstoles,40.3238525,-3.8649214,Park,Happy Land,"Cid Campeador, 7",874
+540,Móstoles,40.3238525,-3.8649214,Park,Parque de los Planetas,28933 Móstoles Comunidad de Madrid,945
+541,Móstoles,40.3238525,-3.8649214,Park,Parque Liana,"Avenida de Portugal, Nº 1",975
+542,Móstoles,40.3238525,-3.8649214,Park,Parque Constitución,,1009
+543,Móstoles,40.3238525,-3.8649214,Park,Princesas y Piratas,"Calle Salcillo, 11",1036
+544,Móstoles,40.3238525,-3.8649214,Park,Parque Infantil Coronel Palma,Palma de Mallorca,1037
+545,Móstoles,40.3238525,-3.8649214,Park,Parque Día del Agua,Móstoles Comunidad de Madrid,1050
+546,Móstoles,40.3238525,-3.8649214,Park,Party Sport,"Calle Cámara de la Industria, 4",1105
+547,Móstoles,40.3238525,-3.8649214,Park,Parque Infantil Levante,Móstoles Comunidad de Madrid,1174
+548,Móstoles,40.3238525,-3.8649214,Park,Parque Arroyo del Soto,"Calle Pintor Sorolla, Móstoles",1179
+549,Móstoles,40.3238525,-3.8649214,Park,Parque del Rancho,28932 Móstoles Comunidad de Madrid,1185
+550,Móstoles,40.3238525,-3.8649214,Park,El Rancho,28932 Móstoles Comunidad de Madrid,1196
+551,Móstoles,40.3238525,-3.8649214,Park,Parque Salvador Allende,,1214
+552,Móstoles,40.3238525,-3.8649214,Park,Parque Andalucía,Móstoles Comunidad de Madrid,1229
+553,Móstoles,40.3238525,-3.8649214,Park,Parque Infantil la Onu,Móstoles Comunidad de Madrid,1232
+554,Móstoles,40.3238525,-3.8649214,Performing Arts Venue,Conservatorio de Música Rodolfo Halffter,"Calle Canarias, 10",305
+555,Móstoles,40.3238525,-3.8649214,Performing Arts Venue,Teatro Villa de Móstoles,"Plaza de la Cultura, s/n",309
+556,Móstoles,40.3238525,-3.8649214,Performing Arts Venue,Teatro del Bosque,"Glorieta de Europa, s/n",440
+557,Móstoles,40.3238525,-3.8649214,Performing Arts Venue,Sala New Capac,"Avenida Portugal, 21",684
+558,Móstoles,40.3238525,-3.8649214,Performing Arts Venue,Asociación de Músicos de Móstoles,"Fragua, 6",1965
+559,Móstoles,40.3238525,-3.8649214,Shopping Mall,Centro Comercial Dos de Mayo,"Avenida del Dos de Mayo, 27",636
+560,Móstoles,40.3238525,-3.8649214,Shopping Mall,Almacenes los Catalanes,"Calle Rio Bidasoa, 1",668
+561,Móstoles,40.3238525,-3.8649214,Shopping Mall,Centro Comercial Arce,"Calle Cid Campeador, 7 Bajo",871
+562,Móstoles,40.3238525,-3.8649214,Shopping Mall,Centro Comercial la Fuensanta,"Avenida de la Onu, 65",1534
+563,Navacerrada,40.7287926,-4.0151676,Park,Parque Infantil,"Avenida de Madrid, 28491 Navacerrada Comunidad de Madrid",95
+564,Navacerrada,40.7287926,-4.0151676,Park,Pino Manolo,Navacerrada Comunidad de Madrid,354
+565,Navacerrada,40.7287926,-4.0151676,Park,Parque Muñoyerro,Navacerrada Comunidad de Madrid,474
+566,Navacerrada,40.7287926,-4.0151676,Park,Parque infantil,"Calle de Amanecer, 12",580
+567,Navacerrada,40.7287926,-4.0151676,Performing Arts Venue,Casa de la Cultura,"Paseo de los Españoles, 11",62
+568,Navalagamella,40.4690591,-4.1227079,Park,Parque de la Iglesia,"Calle Ancha, Navalagamella Comunidad de Madrid",172
+569,Navalagamella,40.4690591,-4.1227079,Park,Parque del Hondillo,"Calle San Sebastian, 44, 28212 Navalagamella Comunidad de Madrid",289
+570,Navalagamella,40.4690591,-4.1227079,Park,Parque Paseo Mirador de la Iglesia,,337
+571,Navalagamella,40.4690591,-4.1227079,Park,Parque el Romeral,Romeral,882
+572,Navalcarnero,40.2877169,-4.014299,Park,Parque Pozo Concejo,28600 Navalcarnero Comunidad de Madrid,482
+573,Navalcarnero,40.2877169,-4.014299,Park,Parque de la Crispina,28600 Navalcarnero Comunidad de Madrid,615
+574,Navalcarnero,40.2877169,-4.014299,Park,Parque de los Charcones,Navalcarnero Comunidad de Madrid,650
+575,Navalcarnero,40.2877169,-4.014299,Park,Parque los Pinos,"Calle Mieres, s/n",653
+576,Navalcarnero,40.2877169,-4.014299,Park,Parque de la Tirolina,28600 Navalcarnero Comunidad de Madrid,700
+577,Navalcarnero,40.2877169,-4.014299,Park,Parque de el Señorio,28600 Navalcarnero Comunidad de Madrid,752
+578,Navalcarnero,40.2877169,-4.014299,Park,Parque de los Tubos,Navalcarnero Comunidad de Madrid,785
+579,Navalcarnero,40.2877169,-4.014299,Park,Parque de San Jorge,"C/ Juan Ramón Jiménez, 28600 Navalcarnero Comunidad de Madrid",792
+580,Navalcarnero,40.2877169,-4.014299,Park,Parque de San Juan Bautista,28600 Navalcarnero Comunidad de Madrid,1529
+581,Navalcarnero,40.2877169,-4.014299,Park,Parque Regional del Rio Guadarrama,Guadarrama Comunidad de Madrid,1639
+582,Navalcarnero,40.2877169,-4.014299,Camera Store,Gaspar Foto - Video,"Calle de la Iglesia, 8",194
+583,Navalcarnero,40.2877169,-4.014299,Performing Arts Venue,Teatro Tyl Tyl,"Calle la Iglesia, 4",94
+584,Navalcarnero,40.2877169,-4.014299,Performing Arts Venue,Teatro Centro,"Plaza del Teatro, s/n",217
+585,Navalcarnero,40.2877169,-4.014299,Shopping Mall,Ahorra Más,Ronda de San Juan,837
+586,Navas del Rey,40.3863666,-4.2508402,Park,El Tren de la Navidad,Fuenlabrada Comunidad de Madrid,449
+587,Nuevo Baztán,40.3659255,-3.2443102,Performing Arts Venue,Bahia Tuna Producciones,"Avenida Nápoles, 44",1408
+588,Orusco de Tajuña,40.2853409,-3.2096521,Shopping Mall,Gourmet Comarca las Vegas,"Calle Mayor, 13",87
+589,Paracuellos de Jarama,40.5048527,-3.5317621,Park,Parque Infantil Nave Espacial,28860 Paracuellos Comunidad de Madrid,298
+590,Paracuellos de Jarama,40.5048527,-3.5317621,Park,Pinarillo AVM,"Avenida de Sombra de la Torre, 14",1122
+591,Paracuellos de Jarama,40.5048527,-3.5317621,Park,Parque Infantil,28860 Paracuellos de Jarama Comunidad de Madrid,1551
+592,Paracuellos de Jarama,40.5048527,-3.5317621,Park,Canaima Park,Comunidad de Madrid,1699
+593,Paracuellos de Jarama,40.5048527,-3.5317621,Performing Arts Venue,Centro Cultural de Paracuellos del Jarama,"Calle de la Ronda de las Cuestas, 39",161
+594,Paracuellos de Jarama,40.5048527,-3.5317621,Performing Arts Venue,Escuela de Música Miramisol,"Calle Iglesia, 17",198
+595,Paracuellos de Jarama,40.5048527,-3.5317621,Shopping Mall,Miramadrid,"Pº de las Camelias, 28860 Paracuellos de Jarama Comunidad de Madrid",1993
+596,Parla,40.2373952,-3.7718902,Park,Parque de la Ermita,28981 Parla Comunidad de Madrid,568
+597,Parla,40.2373952,-3.7718902,Park,Parque Vía de Ronda,Parla Comunidad de Madrid,610
+598,Parla,40.2373952,-3.7718902,Park,Paseo Real,Principado de Asturias,635
+599,Parla,40.2373952,-3.7718902,Park,Parque de la Garrapata,"C/ Mexico, 28980 Parla Comunidad de Madrid",642
+600,Parla,40.2373952,-3.7718902,Park,parque de las Montañas,28982  Comunidad de Madrid,748
+601,Parla,40.2373952,-3.7718902,Park,Bichos,"Calle Toledo, 34",808
+602,Parla,40.2373952,-3.7718902,Park,Rayuela,"Isaac Albéniz, 16",846
+603,Parla,40.2373952,-3.7718902,Park,Paseo Marítimo Perruno,28983 Parla Comunidad de Madrid,915
+604,Parla,40.2373952,-3.7718902,Park,Parque de la Ballena,"Calle Real, s/n",1021
+605,Parla,40.2373952,-3.7718902,Park,Nanitos y Pelusas,"Calle Icíar Bollaín, 3",1172
+606,Parla,40.2373952,-3.7718902,Park,Parque Parla Este,Parla Comunidad de Madrid,1475
+607,Parla,40.2373952,-3.7718902,Park,Parque del Universo,Madrid,1650
+608,Parla,40.2373952,-3.7718902,Park,La Jungla Perdida,"Turin, s/n",1658
+609,Parla,40.2373952,-3.7718902,Park,Parque de las primeras citas,,1905
+610,Parla,40.2373952,-3.7718902,Performing Arts Venue,Teatro Jaime Salom,"Calle San Antón, 46",303
+611,Parla,40.2373952,-3.7718902,Performing Arts Venue,Duo Musical Geminis Orquesta,"Calle el Álamo, 3",398
+612,Parla,40.2373952,-3.7718902,Performing Arts Venue,Let's Go Rock Bar,"Calle San Roque, 53",408
+613,Parla,40.2373952,-3.7718902,Performing Arts Venue,Avanti,"Calle Torrejón, 38",463
+614,Parla,40.2373952,-3.7718902,Performing Arts Venue,Teatro Dulce Chacón,"Calle Rosa Manzano, 3",581
+615,Parla,40.2373952,-3.7718902,Performing Arts Venue,A Lo Loko Deluxe,"Maria Zambrano, 26",810
+616,Parla,40.2373952,-3.7718902,Performing Arts Venue,El Patio Andaluz,"Calle Reyes Católicos, 81",1033
+617,Parla,40.2373952,-3.7718902,Performing Arts Venue,Perchas Cano,"Real, 98",1112
+618,Parla,40.2373952,-3.7718902,Performing Arts Venue,Sur Music Studio,"Calle Berlín, 53",1698
+619,Parla,40.2373952,-3.7718902,Shopping Mall,Merca-2 Parla,"Calle Pablo Casals, s/n",744
+620,Parla,40.2373952,-3.7718902,Shopping Mall,El Ferial,"Carretera Pinto, Km 1",1380
+621,Patones,40.8548194,-3.483954,Performing Arts Venue,Patones de Arriba,Patones Madrid,1467
+622,Pedrezuela,40.7451088,-3.6030185,Shopping Mall,Centro Comercial el Casito,"Paseo de la Ermita, 51",659
+623,Pinto,40.240985,-3.7005072,Park,Plaza Ocho de Marzo,Comunidad de Madrid,302
+624,Pinto,40.240985,-3.7005072,Park,Plaza de la Rábida,"Pza. de la Rábida, s/n",327
+625,Pinto,40.240985,-3.7005072,Park,Parque Infantil Chichopark,"Salvador Dalí, 12",364
+626,Pinto,40.240985,-3.7005072,Park,Parque Juan Carlos I,"Calle Pablo Picasso, s/n",464
+627,Pinto,40.240985,-3.7005072,Park,Parque Municipal Nicolás Fuster,"Doce de Octubre, 28320 Pinto Comunidad de Madrid",474
+628,Pinto,40.240985,-3.7005072,Park,Parque Exacta Pares,28320 Pinto Comunidad de Madrid,710
+629,Pinto,40.240985,-3.7005072,Park,Parque Norte,Comunidad de Madrid,866
+630,Pinto,40.240985,-3.7005072,Park,Palmas Palmitas,"Calle Navarra, 4",925
+631,Pinto,40.240985,-3.7005072,Park,Pequeteca,"Plaza David Martín, 1",971
+632,Pinto,40.240985,-3.7005072,Park,Pinto Pinto Gorgorito,"Calle Italia, 14",1247
+633,Pinto,40.240985,-3.7005072,Park,Parque del Cementerio,28320 Pinto Comunidad de Madrid,1471
+634,Pinto,40.240985,-3.7005072,Park,Parque Alcalde Gabriel Martín Santos,Pinto Comunidad de Madrid,1627
+635,Pinto,40.240985,-3.7005072,Performing Arts Venue,Teatro Francisco Rabal,"Plaza de la Constitución, 1",14
+636,Pinto,40.240985,-3.7005072,Performing Arts Venue,Teatro Francisco Rabal,"Alpujarras, s/n",680
+637,Pinto,40.240985,-3.7005072,Shopping Mall,Emalu,"Calle Pablo Picasso, s/n",756
+638,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Parque la Gitana,Majadahonda Comunidad de Madrid,375
+639,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Santuario Nuestra Señora de Schoenstatt,Madrid,425
+640,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Parque el Pradillo,Pozuelo de Alarcón Comunidad de Madrid,594
+641,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Parque Cruz de la Atalaya,Atalaya,745
+642,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Parque Fuente de la Salud,Pozuelo de Alarcón Comunidad de Madrid,957
+643,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Parque Atenas,28224 Pozuelo de Alarcón Comunidad de Madrid,967
+644,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Parque Europa,"Avenida de Europa, 1",993
+645,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Parque Plaza de España,"Avenida de España, 10",1008
+646,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Parque Cerro de los Perdigones,Pozuelo de Alarcón Madrid,1026
+647,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Cerro Perdigones,Pozuelo de Alarcón Comunidad de Madrid,1066
+648,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Dog Run,28224 Pozuelo de Alarcón Comunidad de Madrid,1196
+649,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Descampado Acacias,,1363
+650,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Miracle Play,"Carretera Húmera, 92",1417
+651,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Bule Avenue,,1473
+652,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Parque de las Minas,28224 Pozuelo de Alarcón Comunidad de Madrid,1652
+653,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Parque de las Piedras,Pozuelo de Alarcón Madrid,1676
+654,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Circuito de Bicis y Patines Pozuelo,Pozuelo Comunidad de Madrid,1793
+655,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Parque Prados de Torrejón,Pozuelo de Alarcón Comunidad de Madrid,1846
+656,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Parque del Dimante,Pozuelo de Alarcón Madrid,1873
+657,Pozuelo de Alarcón,40.4346528,-3.814834,Park,Playground,,1909
+658,Pozuelo de Alarcón,40.4346528,-3.814834,Performing Arts Venue,Teatro Mira,"Camino de las Huertas, 42",1274
+659,Pozuelo de Alarcón,40.4346528,-3.814834,Performing Arts Venue,Espacio Cultural MIRA,"Cmno. de las Huertas, 42",1289
+660,Pozuelo de Alarcón,40.4346528,-3.814834,Performing Arts Venue,Espacio Joven Cubo,"Calle San Rafael, Nº 2",1684
+661,Quijorna,40.4290833,-4.0565378,Park,Elfos Empresa de Servicios Pedagogicos,"Calle Santa Ana, 4",115
+662,Rascafría,40.9038871,-3.8802853,Shopping Mall,Madrid Paris,"Avenida Valle, 6",89
+663,Rivas-Vaciamadrid,40.3536054,-3.5310879,Park,Mahela,28522 Rivas-Vaciamadrid Madrid,116
+664,Rivas-Vaciamadrid,40.3536054,-3.5310879,Park,Parque para perros,"Capa negra, 28522 Rivas-Vaciamadrid Comunidad de Madrid",436
+665,Rivas-Vaciamadrid,40.3536054,-3.5310879,Park,Parque Bellavista,"Avda. Ramón y Cajal, 28522 Rivas-Vaciamadrid Comunidad de Madrid",456
+666,Rivas-Vaciamadrid,40.3536054,-3.5310879,Park,Parque,,921
+667,Rivas-Vaciamadrid,40.3536054,-3.5310879,Park,Abracadabra Fiestas Infantiles,"Joaquin Sorolla, 6",1194
+668,Rivas-Vaciamadrid,40.3536054,-3.5310879,Park,Parque Avda. de los Almendros,Almendros,1332
+669,Rivas-Vaciamadrid,40.3536054,-3.5310879,Park,Parque Cerro del Telégrafo,"pilar bardem, Madrid Comunidad de Madrid",1337
+670,Rivas-Vaciamadrid,40.3536054,-3.5310879,Park,Parque Ecopolis,,1493
+671,Rivas-Vaciamadrid,40.3536054,-3.5310879,Park,Centro de Recursos Ambientales Chico Mendes,"Calle del Enebro, 27",1557
+672,Rivas-Vaciamadrid,40.3536054,-3.5310879,Park,Ludoteca Divertiteca,"Plaza del Monte Ciruelo, 2",1641
+673,Rivas-Vaciamadrid,40.3536054,-3.5310879,Park,Lago CC H2Ocio,,1822
+674,Rivas-Vaciamadrid,40.3536054,-3.5310879,Park,Parque Asturias,Principado de Asturias,1974
+675,Rivas-Vaciamadrid,40.3536054,-3.5310879,Park,Parque Canino Parque Asturias,Principado de Asturias,1976
+676,Rivas-Vaciamadrid,40.3536054,-3.5310879,Camera Store,La Casa de la Foto,Calle Cesar Manrique 2A,919
+677,Rivas-Vaciamadrid,40.3536054,-3.5310879,Performing Arts Venue,Auditorio Pilar Bardem,"Calle de la Fundición, 3",1242
+678,Rivas-Vaciamadrid,40.3536054,-3.5310879,Performing Arts Venue,Apsel,"Calle el Río Jarama, 12 Bajo",1424
+679,Rivas-Vaciamadrid,40.3536054,-3.5310879,Performing Arts Venue,Auditorio Miguel Ríos,"Avenida Juan Carlos I, s/n",1634
+680,Rivas-Vaciamadrid,40.3536054,-3.5310879,Performing Arts Venue,Farsantes,"Calle Rosa Luxemburgo, 4",1921
+681,Rivas-Vaciamadrid,40.3536054,-3.5310879,Shopping Mall,Santa Mónica,"Calle Aloe, 14",897
+682,Rivas-Vaciamadrid,40.3536054,-3.5310879,Shopping Mall,Cuadros Parque Rivas,"Avenida Técnica, s/n",1167
+683,Rivas-Vaciamadrid,40.3536054,-3.5310879,Shopping Mall,Rivas Centro,"Plaza de la Constitución, 1",1374
+684,Rivas-Vaciamadrid,40.3536054,-3.5310879,Shopping Mall,C.C. Rivas Centro,Rivas-Vaciamadrid Comunidad de Madrid,1407
+685,Rivas-Vaciamadrid,40.3536054,-3.5310879,Shopping Mall,Parque Rivas,Rivas-Vaciamadrid Comunidad de Madrid,1466
+686,Rivas-Vaciamadrid,40.3536054,-3.5310879,Shopping Mall,La Cantabrica,"Avenida Técnica, s/n",1493
+687,Rivas-Vaciamadrid,40.3536054,-3.5310879,Shopping Mall,LEGO teca,"Avenida Marie Curie, 4",1790
+688,Rivas-Vaciamadrid,40.3536054,-3.5310879,Shopping Mall,C.C. H2O,"Calle Marie Curie, 4",1816
+689,Rivas-Vaciamadrid,40.3536054,-3.5310879,Shopping Mall,Mad-h2ocio,"Calle Marie Curie, 4",1881
+690,Rivas-Vaciamadrid,40.3536054,-3.5310879,Shopping Mall,Tous C.C. H2O - Rivas Vaciamadrid,"Calle Marie Curie, 4",1894
+691,Robledo de Chavela,40.5009201,-4.2380999,Park,El Robledillo,Comunidad de Madrid,977
+692,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Jardines del Arcipreste D. Abel Blanco,"Avenida de la Iglesia, 14",241
+693,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Dog Run,28230 Las Rozas Comunidad de Madrid,318
+694,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Lian Centro Infantil,"Calle Esperanza, 4",367
+695,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque de Dublín,28231 Las Rozas Comunidad de Madrid,384
+696,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Dog Run,28231 Las Rozas Comunidad de Madrid,398
+697,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque Nueva Javeriana,"C/ de la Jabonería, 28231 Las Rozas Comunidad de Madrid",480
+698,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque Otero Besteiro,"Calle de la Comunidad de Castilla-la Mancha, 38-78",557
+699,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque botanico,28231 Las Rozas Comunidad de Madrid,631
+700,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque infantil P.Paris,,641
+701,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque el Montecillo,,673
+702,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque Piscis,28231 Las Rozas Comunidad de Madrid,685
+703,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Dog Run,28230 Las Rozas Comunidad de Madrid,748
+704,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque Paris las Rozas,28231  Madrid,771
+705,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque Mercedes Formica,Comunidad de Madrid,795
+706,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque de los Tubos de las Rozas,28232 Las Rozas Comunidad de Madrid,797
+707,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque de Lisboa,"Calle Comunidad de Baleares, 1-7",801
+708,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque Infantil Mercedes Formica,"Calle Mercedes Formica, s/n",838
+709,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque París,Las Rozas Comunidad de Madrid,971
+710,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Dog Run,28231 Las Rozas Comunidad de Madrid,1033
+711,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque de Bruselas,28200 Majadahonda Comunidad de Madrid,1172
+712,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Dog Run,28231 Las Rozas Comunidad de Madrid,1180
+713,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque Alejandra y Martina Salas,"Calle Tulipán, 6",1206
+714,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Area Infantil,Las Rozas Comunidad de Madrid,1210
+715,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Parque del Dinosaurio,"Calle Clara Campoamor, s/n",1275
+716,Las Rozas de Madrid,40.4933095,-3.8758396,Park,Descampado Perros,,1447
+717,Las Rozas de Madrid,40.4933095,-3.8758396,Performing Arts Venue,Joaquin Rodrigo,"Avenida del Polideportivo, 18",224
+718,Las Rozas de Madrid,40.4933095,-3.8758396,Performing Arts Venue,Sala Lennon,"Avenida Comunidad de Madrid, 35 Bis",460
+719,Las Rozas de Madrid,40.4933095,-3.8758396,Performing Arts Venue,Teatro Federico García Lorca,"Calle Principado de Asturias, 28",467
+720,Las Rozas de Madrid,40.4933095,-3.8758396,Performing Arts Venue,Polideportivo Municipal Alfredo Espiniella,"Comunidad de la Rioja, 4",574
+721,Las Rozas de Madrid,40.4933095,-3.8758396,Performing Arts Venue,Aperitoche,"Calle de la Comunidad de Madrid, 35",1308
+722,Las Rozas de Madrid,40.4933095,-3.8758396,Performing Arts Venue,Aperitoche Bar Concierto,"Calle Copenhague, 10",1534
+723,Las Rozas de Madrid,40.4933095,-3.8758396,Performing Arts Venue,El Sitio de Mi Recreo,"Calle Belgrado, 51",1913
+724,Las Rozas de Madrid,40.4933095,-3.8758396,Performing Arts Venue,La Quinta Café,"Calle Belgrado, 51",1942
+725,Las Rozas de Madrid,40.4933095,-3.8758396,Shopping Mall,Centro Comercial Burgo de las Rozas,Calle de la Comunidad de Madrid Nº 37,372
+726,Las Rozas de Madrid,40.4933095,-3.8758396,Shopping Mall,BurgoCentro,Calle Comunidad de Madrid 37-41,423
+727,Las Rozas de Madrid,40.4933095,-3.8758396,Shopping Mall,Awan sport europa,"Modena Polígono Industrial Európolis, 36",1779
+728,Las Rozas de Madrid,40.4933095,-3.8758396,Shopping Mall,SOHO de las Rozas,28232 Las Rozas Comunidad de Madrid,1863
+729,Las Rozas de Madrid,40.4933095,-3.8758396,Shopping Mall,Mi Store Gran Plaza 2,"Calle de los Químicos, 2",1923
+730,Las Rozas de Madrid,40.4933095,-3.8758396,Shopping Mall,Mad-gran plaza 2,"De los Quimicos, 2",1939
+731,Las Rozas de Madrid,40.4933095,-3.8758396,Shopping Mall,VIPS Smart Gran Plaza II,"Calle de los Químicos, 2",1944
+732,San Agustín del Guadalix,40.679051,-3.6166004,Park,Diverarte,28750 San Agustín del Guadalix Comunidad de Madrid,23
+733,San Agustín del Guadalix,40.679051,-3.6166004,Park,Parque Municipal,San Agustín del Guadalix Comunidad de Madrid,306
+734,San Agustín del Guadalix,40.679051,-3.6166004,Park,Parque de la Vega,,537
+735,San Agustín del Guadalix,40.679051,-3.6166004,Park,Parque Lineal de San Agustín de Guadalix,San Agustín Comunidad de Madrid,658
+736,San Agustín del Guadalix,40.679051,-3.6166004,Performing Arts Venue,Casa de la Cultura San Agustin de Tagaste,"Calle Extremadura, 4",362
+737,San Fernando de Henares,40.4248548,-3.5350369,Park,Plaza de España,San Fernando de Henares Comunidad de Madrid,98
+738,San Fernando de Henares,40.4248548,-3.5350369,Park,Plaza Primero de Mayo,28830 San Fernando de Henares Comunidad de Madrid,404
+739,San Fernando de Henares,40.4248548,-3.5350369,Park,Parque Pablo Neruda,,418
+740,San Fernando de Henares,40.4248548,-3.5350369,Park,Parque Monserat Roig,"Virgen Del Templo, 28830 San Fernando de Henares Comunidad de Madrid",525
+741,San Fernando de Henares,40.4248548,-3.5350369,Park,Parque Dolores Ibárruri,"Av. San Sebastián, 28830 San Fernando de Henares Comunidad de Madrid",701
+742,San Fernando de Henares,40.4248548,-3.5350369,Park,Parque Abogados de Atocha,,817
+743,San Fernando de Henares,40.4248548,-3.5350369,Park,parque Dulce Chacón,,831
+744,San Fernando de Henares,40.4248548,-3.5350369,Park,Parque el General,Avenida de San Sebastián,899
+745,San Fernando de Henares,40.4248548,-3.5350369,Park,Parque la Rambla,La Rambla,1027
+746,San Fernando de Henares,40.4248548,-3.5350369,Park,Parque Salvador Allende,"C/ Colombia, 28823 Coslada Comunidad de Madrid",1034
+747,San Fernando de Henares,40.4248548,-3.5350369,Park,Parque de el Cerro,28822 Coslada Comunidad de Madrid,1221
+748,San Fernando de Henares,40.4248548,-3.5350369,Park,Paseo de los Chopos,28830 San Fernando de Henares Comunidad de Madrid,1319
+749,San Fernando de Henares,40.4248548,-3.5350369,Park,Parque de las Casitas,28822 Coslada Comunidad de Madrid,1708
+750,San Fernando de Henares,40.4248548,-3.5350369,Park,Parque de Carlos Marx,"Calle de Miguel Hernández, 28822 Coslada Comunidad de Madrid",1709
+751,San Fernando de Henares,40.4248548,-3.5350369,Park,Parque Pellas,"Calle Bucarest, 28822 Coslada Comunidad de Madrid",1841
+752,San Fernando de Henares,40.4248548,-3.5350369,Park,El Parque,"Calle  de José Martí, 28822 Coslada Comunidad de Madrid",1962
+753,San Fernando de Henares,40.4248548,-3.5350369,Performing Arts Venue,Teatro Federico García Lorca,"Avenida Irún, s/n",466
+754,San Fernando de Henares,40.4248548,-3.5350369,Shopping Mall,Comercial Valencia,"Calle Córdoba, s/n",428
+755,San Fernando de Henares,40.4248548,-3.5350369,Shopping Mall,La Rambla,"Calle Honduras, 25-27",595
+756,San Fernando de Henares,40.4248548,-3.5350369,Shopping Mall,Los Valles,"Avenida Principes de España de l, 45",687
+757,San Fernando de Henares,40.4248548,-3.5350369,Shopping Mall,C.C. Henares 2,"Calle Nazario Calonge, s/n",706
+758,San Fernando de Henares,40.4248548,-3.5350369,Shopping Mall,Centro Comercial la Rambla,Coslada Comunidad de Madrid,748
+759,San Lorenzo de El Escorial,40.5926673,-4.1471642,Park,Parque de los Romeros,28200 El Escorial Comunidad de Madrid,302
+760,San Lorenzo de El Escorial,40.5926673,-4.1471642,Park,Los Romeros,,316
+761,San Lorenzo de El Escorial,40.5926673,-4.1471642,Park,Parque de Felipe II,"calle Infantes, 28200 El Escorial Comunidad de Madrid",351
+762,San Lorenzo de El Escorial,40.5926673,-4.1471642,Park,Plaza Juan de Herrera,28200 El Escorial Comunidad de Madrid,377
+763,San Lorenzo de El Escorial,40.5926673,-4.1471642,Park,Arboleda Calzada Lonja Monasterio de el Escorial,28200 El Escorial Comunidad de Madrid,393
+764,San Lorenzo de El Escorial,40.5926673,-4.1471642,Park,Parque de Adolfo Suárez,"Paseo de los Alamillos, 28200 El Escorial Comunidad de Madrid",579
+765,San Lorenzo de El Escorial,40.5926673,-4.1471642,Park,Parque la Ladera,El Escorial Comunidad de Madrid,787
+766,San Lorenzo de El Escorial,40.5926673,-4.1471642,Park,Parque de la Herreria,El Escorial Comunidad de Madrid,944
+767,San Lorenzo de El Escorial,40.5926673,-4.1471642,Park,Parque de los Columpios,28280 El Escorial Comunidad de Madrid,1614
+768,San Lorenzo de El Escorial,40.5926673,-4.1471642,Park,Manguilla,,1738
+769,San Lorenzo de El Escorial,40.5926673,-4.1471642,Park,Los Jardincillos,El Escorial Comunidad de Madrid,1754
+770,San Lorenzo de El Escorial,40.5926673,-4.1471642,Performing Arts Venue,Teatro Real Coliseo de Carlos III,"Calle Floridablanca, 20",197
+771,San Lorenzo de El Escorial,40.5926673,-4.1471642,Performing Arts Venue,Teatro Auditorio de San Lorenzo de el Escorial,"Parq. Felipe II, s/n",440
+772,San Lorenzo de El Escorial,40.5926673,-4.1471642,Performing Arts Venue,El Desván,"Avenida Felipe II, s/n",1770
+773,San Lorenzo de El Escorial,40.5926673,-4.1471642,Shopping Mall,Centro Comercial GIGANTE,"Polígono Industrial Matacuervos, 5",1734
+774,San Martín de la Vega,40.2110462,-3.5771806,Park,Parque Tierno Galván,,1372
+775,San Martín de la Vega,40.2110462,-3.5771806,Performing Arts Venue,Salón de Actos del Centro Cívico Cultural,"Calle del Maestro Rodrigo, 2",268
+776,San Martín de Valdeiglesias,40.3625,-4.3986503,Park,Parque de la Estacion,,335
+777,San Martín de Valdeiglesias,40.3625,-4.3986503,Park,El Bosque Encantado,"Camino de Marañones, 217",1695
+778,San Martín de Valdeiglesias,40.3625,-4.3986503,Performing Arts Venue,Auditorio Municipal Gustavo Pérez Puig,"Fuente, 4",141
+779,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Colorin,"Sacramento, 3",378
+780,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Área Canina Av. Ramón y Cajal,28700 San Sebastián de los Reyes Comunidad de Madrid,635
+781,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque de la Marina,28700  Madrid,655
+782,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque de Valencia,"Avenida de España, s/n",689
+783,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,La Marina,"Avenida Cataluña, 4 Bajo",701
+784,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque de la Marina,28703 San Sebastián de los Reyes Comunidad de Madrid,772
+785,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque de las Sombras,San Sebastián de los Reyes Comunidad de Madrid,780
+786,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque del Zoco las Pirámides,Madrid,826
+787,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Club de Ajedrez V Centenario,San Sebastián de los Reyes Comunidad de Madrid,908
+788,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque de Murcia,Alcobendas Comunidad de Madrid,963
+789,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque de Félix Rodríguez de la Fuente,Alcobendas Madrid,981
+790,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque Camilo Cienfuegos,"Jarama, Alcobendas Comunidad de Madrid",1010
+791,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Área Canina Parque Comunidad de Madrid,"c/ Jarama, 28100 Alcobendas Comunidad de Madrid",1037
+792,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque,"Calle de Ramón Esteban, 30",1040
+793,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque Comunidad de Madrid,Comunidad de Madrid,1042
+794,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque Infantil,,1073
+795,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Área Canina Polideportivo,"C. Teresa Perales, 28100 Alcobendas Comunidad de Madrid",1093
+796,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque de la Artesanía,"Calle de Ramón Fernández Guisasola, 22",1113
+797,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque Temático del Barco Pirata,Alcobendas Comunidad de Madrid,1188
+798,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Conservera Bromar,"Avenida Antonio Machado, 81",1251
+799,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque,,1298
+800,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Jardín de la Vega,Avenida Olímpica Con Una Superficie de 180.000,1334
+801,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Parque,,1428
+802,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Deposite Aquí las Heces de Su Perro,,1488
+803,San Sebastián de los Reyes,40.5473698,-3.6260586,Park,Cerro del Tambor,Cerro,1495
+804,San Sebastián de los Reyes,40.5473698,-3.6260586,Performing Arts Venue,La Nota Rock,"Calle Real, 71",215
+805,San Sebastián de los Reyes,40.5473698,-3.6260586,Performing Arts Venue,Teatro Auditorio Adolfo Marsillach,"Avenida Baunatal, 18",970
+806,San Sebastián de los Reyes,40.5473698,-3.6260586,Performing Arts Venue,Moskeo,"Avenida de la Fuente Nueva, 8",1035
+807,San Sebastián de los Reyes,40.5473698,-3.6260586,Performing Arts Venue,Camara Vision,"Avenida de los Montes de Oca, 7",1103
+808,San Sebastián de los Reyes,40.5473698,-3.6260586,Performing Arts Venue,CM la Esfera,"Avenida Olímpica, 14",1289
+809,San Sebastián de los Reyes,40.5473698,-3.6260586,Performing Arts Venue,Teatro Auditorio de Alcobendas,"Calle Ruperto Chapí, 22",1390
+810,San Sebastián de los Reyes,40.5473698,-3.6260586,Performing Arts Venue,Teatro Auditorio Ciudad de Alcobendas,"Calle Blas de Otero, 4",1409
+811,San Sebastián de los Reyes,40.5473698,-3.6260586,Shopping Mall,Centro Comercial la Viña,San Sebastián de los Reyes Comunidad de Madrid,653
+812,San Sebastián de los Reyes,40.5473698,-3.6260586,Shopping Mall,Gorras Personalizadas Madrid,"Calle Isla de Alegranza, 4",880
+813,San Sebastián de los Reyes,40.5473698,-3.6260586,Shopping Mall,Sudaderas Personalizadas,"Isla de Alegranza, 4",891
+814,San Sebastián de los Reyes,40.5473698,-3.6260586,Shopping Mall,Carrefour San Sebastián de los Reyes,Carretera de Burgos N-1,1072
+815,San Sebastián de los Reyes,40.5473698,-3.6260586,Shopping Mall,Centro Comercial Carrefour San Sebastian de los Reyes,Carretera de Burgos N-1,1151
+816,San Sebastián de los Reyes,40.5473698,-3.6260586,Shopping Mall,Dolce Vita Shopping Gran Manzana,Avenida de España Nº 17,1206
+817,San Sebastián de los Reyes,40.5473698,-3.6260586,Shopping Mall,Ribs Megapark,"Autovía A-1, Salida 19, 28703 San Sebastián de los Reyes Comunidad de Madrid",1249
+818,San Sebastián de los Reyes,40.5473698,-3.6260586,Shopping Mall,Centro Comercial Plaza Norte 2,Avenida del Juncal 15-17,1288
+819,San Sebastián de los Reyes,40.5473698,-3.6260586,Shopping Mall,Perfumerías Primor - C.C. Plaza Norte 2,"Plaza del Comercio, 11-12",1301
+820,San Sebastián de los Reyes,40.5473698,-3.6260586,Shopping Mall,Carrefouronline,"Carretera Autovía A-1, Km 14,5",1363
+821,San Sebastián de los Reyes,40.5473698,-3.6260586,Shopping Mall,Megamall,"Olimpica, 9",1657
+822,Los Santos de la Humosa,40.5012957,-3.2566803,Park,Mirador de la Alcarria,28817 Los Santos de la Humosa Comunidad de Madrid,566
+823,Serranillos del Valle,40.2044509,-3.8851988,Park,Club Agility ESLON,Serranillos del Valle Comunidad de Madrid,1557
+824,Sevilla la Nueva,40.3475422,-4.0275268,Park,Parque de Baena,"Juan De Herrwra, Sevilla la Nueva Comunidad de Madrid",174
+825,Sevilla la Nueva,40.3475422,-4.0275268,Park,Parque Antón Sevillano,28609 Sevilla la Nueva Comunidad de Madrid,400
+826,Sevilla la Nueva,40.3475422,-4.0275268,Park,Parque el Olivar,28609 Sevilla la Nueva Comunidad de Madrid,411
+827,Sevilla la Nueva,40.3475422,-4.0275268,Performing Arts Venue,Porex Plan Decoración Temática,"Calle del Rey, 3",900
+828,Soto del Real,40.7534432,-3.7866573,Park,Parque del Rio,Comunidad de Madrid,219
+829,Soto del Real,40.7534432,-3.7866573,Park,Zoco Real,Comunidad de Madrid,318
+830,Soto del Real,40.7534432,-3.7866573,Park,Parque de los burdiales “Un Clásico”,,912
+831,Soto del Real,40.7534432,-3.7866573,Park,Parque infantil Prado de la Iglesia,,1312
+832,Talamanca de Jarama,40.7454625,-3.5127366,Park,La Chopera,28100 Talamanca de Jarama Comunidad de Madrid,1045
+833,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque ferrocarril,Avenida de la Costituccion N86,453
+834,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque del Agua,28850 Torrejón de Ardoz Comunidad de Madrid,556
+835,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque San Isidro,San Isidro Madrid,556
+836,Torrejón de Ardoz,40.4587767,-3.4793343,Park,El Gran Parque,,556
+837,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque Veredillas,28850 Torrejón de Ardoz Comunidad de Madrid,561
+838,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque 11 de Marzo,"Avenida Madrid, 1",621
+839,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque del Norte,,705
+840,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque Félix Rodríguez de la Fuente,Comunidad de Madrid,978
+841,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque Paseo de la Chopera,,1023
+842,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque Girasol,28850 Torrejón de Ardoz Comunidad de Madrid,1121
+843,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Rio Ebro,28850 Torrejón de Ardoz Comunidad de Madrid,1142
+844,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Columpios del Parque de los Patos,,1150
+845,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque de los Patos,"Avenida de Madrid, 17",1208
+846,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque Maycas,Comunidad de Madrid,1248
+847,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque Rosario,28850 Torrejón de Ardoz Comunidad de Madrid,1312
+848,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque Madrid,Madrid Comunidad de Madrid,1316
+849,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Columpios Tras Bar Milan,,1342
+850,Torrejón de Ardoz,40.4587767,-3.4793343,Park,parque Budapest,,1392
+851,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque Grande,28850 Torrejón de Ardoz Comunidad de Madrid,1506
+852,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque Plaza del Progreso,Torrejón de Ardoz Comunidad de Madrid,1508
+853,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque Sur,28850 Torrejón de Ardoz Comunidad de Madrid,1513
+854,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque del Arte,28850 Torrejón de Ardoz Comunidad de Madrid,1529
+855,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque de los Fresnos,"Zeus, Torrejón de Ardoz Comunidad de Madrid",1530
+856,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque los Fresnos,Torrejón de Ardoz Madrid,1543
+857,Torrejón de Ardoz,40.4587767,-3.4793343,Park,Parque 'la Pradera,28850  Comunidad de Madrid,1544
+858,Torrejón de Ardoz,40.4587767,-3.4793343,Performing Arts Venue,Transportes Escudero Express,"Segovia, 3",351
+859,Torrejón de Ardoz,40.4587767,-3.4793343,Performing Arts Venue,Teatro José María Rodero,"Calle Londres, 3",432
+860,Torrejón de Ardoz,40.4587767,-3.4793343,Performing Arts Venue,Ferro Teatro,"Calle Polo Sur, 9",1003
+861,Torrejón de Ardoz,40.4587767,-3.4793343,Performing Arts Venue,Teatro Eslava,"Calle Florencia, 20",1237
+862,Torrejón de Ardoz,40.4587767,-3.4793343,Shopping Mall,Comunidad de Propietarios el Circulo,"Avenida Constitución, 90 Bajo",589
+863,Torrejón de Ardoz,40.4587767,-3.4793343,Shopping Mall,El Círculo Shopping Mall (C.C. El Círculo),"De la Constitucion, 90",591
+864,Torrejón de Ardoz,40.4587767,-3.4793343,Shopping Mall,Centro Comercial las Veredillas,"Lisboa, 30",897
+865,Torrejón de la Calzada,40.2006804,-3.7993298,Park,Airsoft el Cortijo,Comunidad de Madrid,1547
+866,Torrejón de la Calzada,40.2006804,-3.7993298,Camera Store,Las Bodas de Irene,"Virgen de la Natividad, 11",242
+867,Torrejón de la Calzada,40.2006804,-3.7993298,Performing Arts Venue,Casa de la Cultura,"Real, 23",136
+868,Torrejón de la Calzada,40.2006804,-3.7993298,Shopping Mall,Formecal,"Avenida Doce, 10",1439
+869,Torrejón de Velasco,40.1869283,-3.7769069,Park,Área Infantil,"Calle Francisco Alonso, 28990 Torrejón de Velasco Comunidad de Madrid",321
+870,Torrejón de Velasco,40.1869283,-3.7769069,Park,Parque Provincias,"Calle Cuenca, 28990 Torrejón de Velasco Comunidad de Madrid",326
+871,Torrelaguna,40.8277273,-3.538293,Performing Arts Venue,Casa de Cultura de Torrelaguna,"Plaza de la Paz, 3",151
+872,Torrelaguna,40.8277273,-3.538293,Shopping Mall,Ruda,"Calle de la Cava, 3",112
+873,Torrelodones,40.5762809,-3.928603,Park,Parque JH,,233
+874,Torrelodones,40.5762809,-3.928603,Park,Parque Pradogrande,,1844
+875,Torrelodones,40.5762809,-3.928603,Park,Prado Grande,Prado Madrid,1980
+876,Torrelodones,40.5762809,-3.928603,Camera Store,Vagamundos Studio 69,"Calle las Marías, 10",353
+877,Torrelodones,40.5762809,-3.928603,Performing Arts Venue,Tata Producciones,"Camino de Valladolid, 36",339
+878,Torrelodones,40.5762809,-3.928603,Performing Arts Venue,Teatro Fernández-Baldor,"Calle Arroyo de los Viales, 4",1037
+879,Torrelodones,40.5762809,-3.928603,Shopping Mall,Iwall Inshop,"Avenida de la Fontanilla, 1",160
+880,Torrelodones,40.5762809,-3.928603,Shopping Mall,Amel Suenos Infantiles,"Avenida Fontanilla, s/n",160
+881,Torrelodones,40.5762809,-3.928603,Shopping Mall,Lo Más Bárbaro,"Avenida de la Fontanilla, s/n",1103
+882,Torrelodones,40.5762809,-3.928603,Shopping Mall,Forum Tlaquepaque,"Avenida de la Fontanilla, s/n",1123
+883,Torrelodones,40.5762809,-3.928603,Shopping Mall,Comunidad de Propietarios de Locales C.C. Espacio Torrelodones,"Avenida de la Fontanilla, s/n",1135
+884,Torres de la Alameda,40.4021516,-3.360625,Performing Arts Venue,Proescen,"Calle Bonn, 66",1217
+885,Tres Cantos,40.6065826,-3.7065333,Park,Parque Central,28760 Tres Cantos Comunidad de Madrid,244
+886,Tres Cantos,40.6065826,-3.7065333,Park,Parque Antonio López,28760 Tres Cantos Comunidad de Madrid,542
+887,Tres Cantos,40.6065826,-3.7065333,Park,Parque Infantil Literatos 1,"Sector de los Literatos, 28",606
+888,Tres Cantos,40.6065826,-3.7065333,Park,Parque Central Tres Cantos,Tres Cantos Comunidad de Madrid,666
+889,Tres Cantos,40.6065826,-3.7065333,Park,Bike Park Tres Cantos,Tres Cantos Comunidad de Madrid,676
+890,Tres Cantos,40.6065826,-3.7065333,Park,Parque infantil del castillo,,722
+891,Tres Cantos,40.6065826,-3.7065333,Park,Parque Infantil Descubridores 1,,768
+892,Tres Cantos,40.6065826,-3.7065333,Park,Parque Infantil Pza Constitucion,Tres Cantos Comunidad de Madrid,786
+893,Tres Cantos,40.6065826,-3.7065333,Park,Palmera Saharaui,"Avda del Parque, 28760 Tres Cantos Comunidad de Madrid",865
+894,Tres Cantos,40.6065826,-3.7065333,Park,Parque Infantil Artesanos 2,"Artesanos, 64",1009
+895,Tres Cantos,40.6065826,-3.7065333,Park,Embarcaciones,Comunidad de Madrid,1011
+896,Tres Cantos,40.6065826,-3.7065333,Park,Parque Infantil Embarcaciones 4,Tres Cantos Comunidad de Madrid,1038
+897,Tres Cantos,40.6065826,-3.7065333,Park,El caballito de Laura,"Calle del Fuego, 1",1223
+898,Tres Cantos,40.6065826,-3.7065333,Park,Parque,,1368
+899,Tres Cantos,40.6065826,-3.7065333,Park,Parque de las Siete Leguas,Comunidad de Madrid,1484
+900,Tres Cantos,40.6065826,-3.7065333,Park,Mini Parque,"Calle del Tagarral, 10",1531
+901,Tres Cantos,40.6065826,-3.7065333,Park,Parque Sector Islas,,1540
+902,Tres Cantos,40.6065826,-3.7065333,Park,Parque Infantil,,1554
+903,Tres Cantos,40.6065826,-3.7065333,Park,Parque de los Alcornocales,Comunidad de Madrid,1926
+904,Tres Cantos,40.6065826,-3.7065333,Performing Arts Venue,Escarraman Teatro,"Sector Foresta, 42",720
+905,Tres Cantos,40.6065826,-3.7065333,Performing Arts Venue,Cámara Lírica,"Avenida de la Industria, 29",805
+906,Tres Cantos,40.6065826,-3.7065333,Performing Arts Venue,Trece y Medio,"Avenida Viñuelas, 17",1142
+907,Tres Cantos,40.6065826,-3.7065333,Shopping Mall,Ciudad Tres Cantos,"Avenida de los Labradores, 9-11",820
+908,Tres Cantos,40.6065826,-3.7065333,Shopping Mall,Centro Comercial la Rotonda,"Plaza del Toro, s/n",908
+909,Valdemoro,40.1888604,-3.67143,Park,Parque Enrique Tierno Galván,Valdemoro Comunidad de Madrid,487
+910,Valdemoro,40.1888604,-3.67143,Park,Parque Forestal Cerro del Castillo,28343 Valdemoro Comunidad de Madrid,580
+911,Valdemoro,40.1888604,-3.67143,Park,Parque Nuestra Señora de Monserrat,"Paseo de la estacion, 28340 Valdemoro Comunidad de Madrid",626
+912,Valdemoro,40.1888604,-3.67143,Park,Parque de Extremadura,,628
+913,Valdemoro,40.1888604,-3.67143,Park,Parque Enrique Tierno Galván,Comunidad de Madrid,641
+914,Valdemoro,40.1888604,-3.67143,Park,Parque Perros Agility,,793
+915,Valdemoro,40.1888604,-3.67143,Park,Parque Duque de Ahumada,"Calle Libertad Numero, 1",794
+916,Valdemoro,40.1888604,-3.67143,Park,Parque Infantil Hojarasca,,870
+917,Valdemoro,40.1888604,-3.67143,Park,Parque de las Sombras,,872
+918,Valdemoro,40.1888604,-3.67143,Park,Parque de las Víctimas del Terrorismo,28340 Valdemoro Comunidad de Madrid,1002
+919,Valdemoro,40.1888604,-3.67143,Park,Parque de las Eras,,1027
+920,Valdemoro,40.1888604,-3.67143,Park,Parque de los Olivos,,1111
+921,Valdemoro,40.1888604,-3.67143,Park,Parque España,Valdemoro Comunidad de Madrid,1126
+922,Valdemoro,40.1888604,-3.67143,Park,Parque Bolitas del Airón,"Paseo del Prado, s/n",1141
+923,Valdemoro,40.1888604,-3.67143,Park,Los Lagos,Valdemoro Comunidad de Madrid,1148
+924,Valdemoro,40.1888604,-3.67143,Park,Parque de las Eras,Valdemoro Comunidad de Madrid,1424
+925,Valdemoro,40.1888604,-3.67143,Park,Ludoteca Chia Junior,"Avenida Hispanoamérica, 50",1528
+926,Valdemoro,40.1888604,-3.67143,Park,Actilud Infantiles,"Avenida Hispano América, 50",1528
+927,Valdemoro,40.1888604,-3.67143,Park,Guanta,28341 Valdemoro Comunidad de Madrid,1577
+928,Valdemoro,40.1888604,-3.67143,Park,Parque Adolfo Suárez,"Antonio Van de Per, 28342 Valdemoro Comunidad de Madrid",1673
+929,Valdemoro,40.1888604,-3.67143,Park,Playground,,1676
+930,Valdemoro,40.1888604,-3.67143,Park,Avd. del Mar Adriatico,,1996
+931,Valdemoro,40.1888604,-3.67143,Performing Arts Venue,Teatro Municipal de Valdemoro,"Plaza Constitución, 11",538
+932,Valdemoro,40.1888604,-3.67143,Performing Arts Venue,Teatro Municipal Juan Prado,"Calle Estrella de Elola, 27",567
+933,Valdemoro,40.1888604,-3.67143,Performing Arts Venue,Woodstock,"Calle Parla, 24",1095
+934,Valdemoro,40.1888604,-3.67143,Shopping Mall,Neal Cash Madrid,"Carretera de Andalucia Autovía A-4, Km 24",408
+935,Valdemoro,40.1888604,-3.67143,Shopping Mall,C. C. el reston,"Avenida Mar Mediterraneo, 3",831
+936,Valdepiélagos,40.7610144,-3.4656251,Performing Arts Venue,Titeres Sol y Tierra,"Calle Mayor, 9",150
+937,Valdilecha,40.2926854,-3.3002096,Camera Store,Rdefotografia,"Mayor, 11",38
+938,Valverde de Alcalá,40.4180359,-3.2996775,Park,Parque de la Hontanilla,28810 Villalbilla Comunidad de Madrid,1598
+939,Villalbilla,40.4323665,-3.2987815,Park,Parque de la Hontanilla,28810 Villalbilla Comunidad de Madrid,321
+940,Villamanrique de Tajo,40.0686973,-3.240078,Park,Parque Fluvial Villamanrique de Tajo,28598 Villamanrique de Tajo Comunidad de Madrid,327
+941,Villanueva de la Cañada,40.4472106,-4.002795,Park,Arevalo's Park,Arévalo,577
+942,Villanueva de la Cañada,40.4472106,-4.002795,Park,Pinar de la Cañada,Cañada,739
+943,Villanueva de la Cañada,40.4472106,-4.002795,Park,El Parque del Verano,28691 Villanueva de la Cañada Comunidad de Madrid,789
+944,Villanueva de la Cañada,40.4472106,-4.002795,Park,Parque Infantil Avda Metepec,Avenida Metepec 2B,803
+945,Villanueva de la Cañada,40.4472106,-4.002795,Park,Parque del Heiser,,857
+946,Villanueva de la Cañada,40.4472106,-4.002795,Park,Parque Infantil,"Avenida De Castilla yLeón, 28691 Villanueva de la Cañada Comunidad de Madrid",1280
+947,Villanueva del Pardillo,40.4949232,-3.9600065,Park,Fiestas de Villanueva del Pardillo,,337
+948,Villanueva del Pardillo,40.4949232,-3.9600065,Park,Ocio Infantil,"Gral. Mola, 13",582
+949,Villanueva del Pardillo,40.4949232,-3.9600065,Park,Parque de al Lado del Rio,Comunidad de Madrid,596
+950,Villanueva del Pardillo,40.4949232,-3.9600065,Park,Parque Antonio Machado,Villanueva del Pardillo Comunidad de Madrid,599
+951,Villanueva del Pardillo,40.4949232,-3.9600065,Park,Parque del Reloj,"Avda. De Madrid, Villanueva del Pardillo Comunidad de Madrid",695
+952,Villanueva del Pardillo,40.4949232,-3.9600065,Park,Parque de la Tirolina,28229 Villanueva del Pardillo Comunidad de Madrid,1339
+953,Villanueva del Pardillo,40.4949232,-3.9600065,Camera Store,Sherry Color,"Calle Alameda, 6",908
+954,Villanueva del Pardillo,40.4949232,-3.9600065,Performing Arts Venue,Auditorio Municipal de Villanueva del Pardillo,"Calle Real, 4",717
+955,Villarejo de Salvanés,40.1683582,-3.2738764,Park,Parque Infantil,"c/ Viso, 28590 Villarejo de Salvanés Comunidad de Madrid",526
+956,Villaviciosa de Odón,40.3573787,-3.9002334,Park,Parque de las Margaritas,,350
+957,Villaviciosa de Odón,40.3573787,-3.9002334,Park,Pinar del Castillo,Pinar,422
+958,Villaviciosa de Odón,40.3573787,-3.9002334,Park,Parque Vicente Ferrer,,710
+959,Villaviciosa de Odón,40.3573787,-3.9002334,Park,Parque Antonio Machado,28670 Villaviciosa de Odón Comunidad de Madrid,792
+960,Villaviciosa de Odón,40.3573787,-3.9002334,Park,Parque Vaillo,Villaviciosa de Odón Comunidad de Madrid,836
+961,Villaviciosa de Odón,40.3573787,-3.9002334,Park,Matadero de Villaviciosa CQB ARISOFT,28670 Villaviciosa de Odón Comunidad de Madrid,1043
+962,Villaviciosa de Odón,40.3573787,-3.9002334,Park,Parque del Castillo,"Avenida del Castillo, 28670 Villaviciosa de Odón Comunidad de Madrid",1626
+963,Villaviciosa de Odón,40.3573787,-3.9002334,Park,Mi Mundo,"Avenida de las Nieves, 35",1747
+964,Villaviciosa de Odón,40.3573787,-3.9002334,Camera Store,Patricia Carrión E. Fotografía,"Calle Fuentecilla, 16",546
+965,Villaviciosa de Odón,40.3573787,-3.9002334,Performing Arts Venue,Auditorio Teresa Berganza,"Avenida Príncipe de Asturias, 163",353
+966,Villaviciosa de Odón,40.3573787,-3.9002334,Performing Arts Venue,Sonorizaciones Sanchi,"Avenida Villaviciosa, 25",1069
+967,Zarzalejo (estación),40.5392812,-4.1624845,Park,Parque Pedro Rodríguez-Ponga,"Avenida de la Estación, 45",95
+968,Zarzalejo (estación),40.5392812,-4.1624845,Park,Pinar Zarzalejo,Pinar,321
