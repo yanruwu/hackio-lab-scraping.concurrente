@@ -54,9 +54,9 @@ def obtener_datos_municipio(municipio, code, max_retries=3):
     df_municipio = pd.DataFrame()
     
     chrome_options = Options()
-    chrome_options.add_argument("--headless")
-    chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--headless") 
+     # chrome_options.add_argument("--no-sandbox") # deshabilita privilegios para procesos que no lo necesitan. aumentaría la velocidad pero compromete en seguridad
+    chrome_options.add_argument("--disable-dev-shm-usage") # otra opción para optimizar la ejecución 
 
     driver = webdriver.Chrome(options=chrome_options)
 
